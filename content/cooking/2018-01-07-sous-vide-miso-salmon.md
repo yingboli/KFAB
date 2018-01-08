@@ -9,8 +9,10 @@ tags:
   - 低温烹调 Sous Vide
 ---
 
-<img src="../figures/2018-01-07-salmon.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo">
-!()[../figures/2018-01-07-salmon.jpg]
+<img src="" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />
+!(pic)[../figures/2018-01-07-salmon.png]
+
+![RStudio addin New Post](https://bookdown.org/yihui/blogdown/images/new-post.png)
 
 低温烹调现在好像很流行，就是把食物腌入味后放在保鲜袋里抽真空，
 浸入在低温（低于100度）的水里煮几十分钟到几个小时就可以了。
