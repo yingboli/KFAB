@@ -9,8 +9,7 @@ tags:
   - 低温烹调 Sous Vide
 ---
 
-<img src="https://github.com/yingboli/KFAB/blob/master/content/figures/2018-01-07-salmon.png" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />
-![test](https://github.com/yingboli/KFAB/blob/master/content/figures/2018-01-07-salmon.png)
+![Miso Salmon](/img/2018-01-07-salmon.png)
 
 
 低温烹调现在好像很流行，就是把食物腌入味后放在保鲜袋里抽真空，
@@ -24,7 +23,7 @@ tags:
 以下是食谱。
 
 ___
-|三文鱼腌汁               |Miso Marinade            |
+|味噌腌汁                 |Miso Marinade            |
 |-------------------------|-------------------------|
 |白味噌 1/2杯 （即4大匙） |White miso 1/2 cup       |
 |糖 1/4杯 （即4大匙，我实际用了3大匙） |Sugar 1/4 cup       |
@@ -32,7 +31,7 @@ ___
 |味啉3大匙                |Mirin 3 tbsp             |
 
 1. 三文鱼腌汁方子来自Cook's Illustrated杂志，这些配1.5～2磅三文鱼的量。把所有材料调匀涂在鱼上面，
-最好腌1～3天。
+最好冷藏腌1～3天。
 
 2. 低温烹调：水温50摄氏度（122华氏度），煮40分钟。
 3. 平底锅放一点点油，大火热到冒烟。小心把鱼从袋子里倒入盘子里，擦掉表面的味噌（不擦的话味噌受热容易焦掉），皮面朝下，大火煎二十秒，就可以出锅啦。
