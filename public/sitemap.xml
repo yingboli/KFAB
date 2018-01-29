@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cooking/2018/01/28/smoked-confit-port-belly/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cooking/2018/01/21/roasted-brussels-sprouts/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
   </url>
@@ -28,13 +33,13 @@
   
   <url>
     <loc>/cooking/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,8 +54,14 @@
   </url>
   
   <url>
+    <loc>/tags/%E4%BA%94%E8%8A%B1%E8%82%89-pork-belly/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/%E4%BD%8E%E6%B8%A9%E7%83%B9%E8%B0%83-sous-vide/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,6 +78,12 @@
   </url>
   
   <url>
+    <loc>/tags/%E6%B2%B9%E5%B0%81-confit/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/%E6%B5%B7%E9%B2%9C-seafood/</loc>
     <lastmod>2018-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -75,6 +92,12 @@
   <url>
     <loc>/tags/%E7%83%A4%E7%AE%B1-oven/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E7%8C%AA%E8%82%89-pork/</loc>
+    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
