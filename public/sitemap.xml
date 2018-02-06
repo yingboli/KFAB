@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cooking/2018/02/05/chiffon-cake/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cooking/2018/01/28/smoked-confit-port-belly/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -33,13 +38,13 @@
   
   <url>
     <loc>/cooking/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -90,6 +95,12 @@
   </url>
   
   <url>
+    <loc>/categories/%E7%83%98%E7%84%99-baking/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/%E7%83%A4%E7%AE%B1-oven/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -110,6 +121,12 @@
   <url>
     <loc>/categories/%E8%94%AC%E8%8F%9C-vegetable/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E8%9B%8B%E7%B3%95-cakes/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
