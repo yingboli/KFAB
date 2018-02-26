@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cooking/2018/02/25/roasted-shrimp/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cooking/2018/02/11/beef-with-oyster-sauce/</loc>
     <lastmod>2018-02-11T00:00:00+00:00</lastmod>
   </url>
@@ -43,13 +48,13 @@
   
   <url>
     <loc>/cooking/</loc>
-    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,7 +88,7 @@
   
   <url>
     <loc>/tags/%E5%BF%AB%E6%89%8B%E8%8F%9C-quick-dish/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -95,7 +100,7 @@
   
   <url>
     <loc>/categories/%E6%B5%B7%E9%B2%9C-seafood/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,7 +118,7 @@
   
   <url>
     <loc>/tags/%E7%83%A4%E7%AE%B1-oven/</loc>
-    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -138,6 +143,12 @@
   <url>
     <loc>/categories/%E8%94%AC%E8%8F%9C-vegetable/</loc>
     <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E8%99%BE-shrimp/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
