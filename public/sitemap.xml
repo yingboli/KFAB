@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cooking/2018/03/25/guizhou-tomato-fish-soup/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cooking/2018/03/11/seafood-gratin-rice/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -58,13 +63,13 @@
   
   <url>
     <loc>/cooking/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -122,7 +127,7 @@
   
   <url>
     <loc>/categories/%E6%B5%B7%E9%B2%9C-seafood/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -157,8 +162,20 @@
   </url>
   
   <url>
+    <loc>/tags/%E7%95%AA%E8%8C%84-tomato/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/%E7%BB%BC%E5%90%88%E6%B5%B7%E9%B2%9C-mixed-seafood/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E7%BE%8E%E6%B4%B2%E9%B2%AB%E9%B1%BC-tilapia/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,13 +210,13 @@
   </url>
   
   <url>
-    <loc>/tags/%E9%A5%AD-rice/</loc>
+    <loc>/categories/%E9%A5%AD-rice/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/%E9%A5%AD-rice/</loc>
+    <loc>/tags/%E9%A5%AD-rice/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
