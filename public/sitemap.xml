@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/cooking/2018/04/01/tiramisu/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cooking/2018/03/25/guizhou-tomato-fish-soup/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -63,13 +68,13 @@
   
   <url>
     <loc>/cooking/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -92,6 +97,12 @@
   <url>
     <loc>/tags/%E4%BD%8E%E6%B8%A9%E7%83%B9%E8%B0%83-sous-vide/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%92%96%E5%95%A1-coffee/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,6 +173,12 @@
   </url>
   
   <url>
+    <loc>/categories/%E7%94%9C%E7%82%B9-dessert/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/%E7%95%AA%E8%8C%84-tomato/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -210,13 +227,13 @@
   </url>
   
   <url>
-    <loc>/categories/%E9%A5%AD-rice/</loc>
+    <loc>/tags/%E9%A5%AD-rice/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/%E9%A5%AD-rice/</loc>
+    <loc>/categories/%E9%A5%AD-rice/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
