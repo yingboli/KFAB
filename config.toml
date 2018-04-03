@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://liyingbo.com"
 languageCode = "en-us"
 title = "King Fox And Butterfly"
 theme = "hugo-xmin"
