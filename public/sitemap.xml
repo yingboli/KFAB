@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://liyingbo.com/cooking/2018/04/08/homemade-chili-oil/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/stat/2018/04/03/my-first-post-about-statistics/</loc>
     <lastmod>2018-04-03T00:00:00+00:00</lastmod>
   </url>
@@ -79,13 +84,13 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://liyingbo.com/</loc>
-    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,6 +258,12 @@
   <url>
     <loc>http://liyingbo.com/tags/%E8%9B%8B%E7%B3%95-cakes/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
