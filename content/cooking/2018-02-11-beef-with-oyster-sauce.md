@@ -7,6 +7,7 @@ categories:
   - 牛肉 Beef
 tags:
   - 炒牛肉 Beef Flank
+  - 中式 Chinese
 ---
 ![Beef with Oyster Sauce](/img/2018-02-11-beef-with-oyster-sauce.jpg)
 
