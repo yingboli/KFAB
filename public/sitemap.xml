@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://liyingbo.com/cooking/2018/08/26/sauteed-portobello/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/cooking/2018/08/19/pan-fried-wonton/</loc>
     <lastmod>2018-08-19T00:00:00+00:00</lastmod>
   </url>
@@ -124,13 +129,13 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://liyingbo.com/</loc>
-    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -339,7 +344,13 @@
   
   <url>
     <loc>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</loc>
-    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E8%98%91%E8%8F%87-mushroom/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
