@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://liyingbo.com/cooking/2018/09/25/fried-pork-meatballs-with-japanese-yam/</loc>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/cooking/2018/08/26/sauteed-portobello/</loc>
     <lastmod>2018-08-26T00:00:00+00:00</lastmod>
   </url>
@@ -129,13 +134,13 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://liyingbo.com/</loc>
-    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -235,6 +240,12 @@
   </url>
   
   <url>
+    <loc>http://liyingbo.com/tags/%E5%B1%B1%E8%8D%AF-japanese-yam/</loc>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/tags/%E5%BF%AB%E6%89%8B%E8%8F%9C-quick-dish/</loc>
     <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -302,7 +313,7 @@
   
   <url>
     <loc>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</loc>
-    <lastmod>2018-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -327,6 +338,12 @@
   <url>
     <loc>http://liyingbo.com/tags/%E7%BE%8E%E6%B4%B2%E9%B2%AB%E9%B1%BC-tilapia/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E8%82%89%E7%B3%9C-ground-pork/</loc>
+    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
