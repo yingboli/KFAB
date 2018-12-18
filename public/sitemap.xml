@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://liyingbo.com/stat/2018/12/18/book-notes-introduction-to-time-series-and-forecasting-ch1/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/cooking/2018/12/18/paella-my-version/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
@@ -158,7 +163,14 @@
   </url>
   
   <url>
+    <loc>http://liyingbo.com/categories/book-notes/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/categories/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -175,7 +187,7 @@
   
   <url>
     <loc>http://liyingbo.com/tags/introduction/</loc>
-    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,13 +205,19 @@
   
   <url>
     <loc>http://liyingbo.com/stat/</loc>
-    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://liyingbo.com/tags/</loc>
     <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/time-series/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -240,14 +258,14 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/tags/%E5%87%89%E8%8F%9C-appetizer/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://liyingbo.com/tags/%E5%87%89%E8%8F%9C-appetizer/</loc>
-    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -462,14 +480,14 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/%E9%A5%AD-rice/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/tags/%E9%A5%AD-rice/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://liyingbo.com/tags/%E9%A5%AD-rice/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/categories/%E9%A5%AD-rice/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

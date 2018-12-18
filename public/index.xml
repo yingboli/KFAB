@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Book Notes: Introduction to Time Series and Forecasting --  Ch1 Introduction</title>
+      <link>http://liyingbo.com/stat/2018/12/18/book-notes-introduction-to-time-series-and-forecasting-ch1/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/stat/2018/12/18/book-notes-introduction-to-time-series-and-forecasting-ch1/</guid>
+      <description>Objective of time series models  Seasonal adjustment: recognize seasonal components and remove them to study long-term trends
+ Separate (or filter) noise from signals
+ Prediction
+ Test hypotheses
+ Predicting one series from observations of another
+   A general approach to time series modeling Plot the series and check main features:  Trend Seasonality Any sharp changes Outliers  Remove trend and seasonal components to get stationary residuals  May need data transformation first  Choose a model to fit the residuals   Stationary Models and Autocorrelation Function Definitions: stationary  Series \(\{X_t\}\) has  Mean function \(\mu_X(t) = E(X_t)\) and Covariance function \(\gamma_X(r, s) = \textrm{Cov}(X_r, X_s)\)  \(\{X_t\}\) is (weakly) stationary if  \(\mu_X(t)\) does not depend on \(t\) \(\gamma_X(t+h, t)\) does not depend on \(t\), for each \(h\) (Weakly) stationary is defined based on the first and second order properties of a series  \(\{X_t\}\) is strictly stationary if \((X_1, \ldots, X_n)\) and \((X_{1+h}, \ldots, X_{n+h})\) have the same joint distributions for all integers \(h\) and \(n&amp;gt;0\)  If \(\{X_t\}\) is strictly stationary, and \(E(X_t^2) &amp;lt; \infty\) for all \(t\), then \(\{X_t\}\) is weakly stationary Weakly stationary does not imply strictly stationary    Definitions: autocovariance and autorrelation  \(\{X_t\}\) is a stationary time series</description>
+    </item>
+    
+    <item>
       <title>我家的海鲜饭 Paella, My Version</title>
       <link>http://liyingbo.com/cooking/2018/12/18/paella-my-version/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
