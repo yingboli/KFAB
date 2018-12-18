@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://liyingbo.com/cooking/2018/12/18/paella-my-version/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/cooking/2018/11/26/baked-honey-chicken-wings/</loc>
     <lastmod>2018-11-26T00:00:00+00:00</lastmod>
   </url>
@@ -159,13 +164,13 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://liyingbo.com/</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -235,14 +240,14 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/tags/%E5%87%89%E8%8F%9C-appetizer/</loc>
-    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/tags/%E5%87%89%E8%8F%9C-appetizer/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -332,7 +337,7 @@
   
   <url>
     <loc>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -392,7 +397,7 @@
   
   <url>
     <loc>http://liyingbo.com/tags/%E7%BB%BC%E5%90%88%E6%B5%B7%E9%B2%9C-mixed-seafood/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -434,7 +439,7 @@
   
   <url>
     <loc>http://liyingbo.com/tags/%E8%99%BE-shrimp/</loc>
-    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -457,13 +462,13 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/tags/%E9%A5%AD-rice/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/categories/%E9%A5%AD-rice/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/%E9%A5%AD-rice/</loc>
+    <loc>http://liyingbo.com/tags/%E9%A5%AD-rice/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
