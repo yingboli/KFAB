@@ -55,7 +55,7 @@ tags:
 |白米 1.5杯                             |Rice 1.5 cup     |
 |水（包括番茄罐头的汁水） 2杯           |Water, including canned tomato juice, 2 cup     |
 |红葱头 1个，切末                       |Shallot, minced, 1             |
-|蒜末 2茶匙                             |Garlic, minced, 2 tsp             |
+|蒜末 2小匙                             |Garlic, minced, 2 tsp             |
 |罐装番茄丁 14.5oz 一罐                 |Canned diced tomatoes, 14.5 oz             |
 |冷冻青豆 1杯                           |Pea, frozen, 1 cup             |
 |烤红甜椒丁 1杯                         |Roasted red pepper, diced, 1 cup             |

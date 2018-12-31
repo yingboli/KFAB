@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://liyingbo.com/cooking/2018/12/30/steamed-tilapia/</loc>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/2018/12/27/matcha-candied-pecans/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/stat/2018/12/18/book-notes-introduction-to-time-series-and-forecasting-ch1/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
@@ -176,13 +186,13 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://liyingbo.com/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -258,14 +268,14 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/tags/%E5%87%89%E8%8F%9C-appetizer/</loc>
-    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/tags/%E5%87%89%E8%8F%9C-appetizer/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,6 +310,12 @@
   </url>
   
   <url>
+    <loc>http://liyingbo.com/tags/%E5%B1%B1%E6%A0%B8%E6%A1%83-pecans/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/tags/%E5%B1%B1%E8%8D%AF-japanese-yam/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -307,7 +323,7 @@
   
   <url>
     <loc>http://liyingbo.com/tags/%E5%BF%AB%E6%89%8B%E8%8F%9C-quick-dish/</loc>
-    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -355,7 +371,7 @@
   
   <url>
     <loc>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -367,13 +383,13 @@
   
   <url>
     <loc>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</loc>
-    <lastmod>2018-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://liyingbo.com/tags/%E7%83%A4%E7%AE%B1-oven/</loc>
-    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -403,7 +419,7 @@
   
   <url>
     <loc>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -421,7 +437,7 @@
   
   <url>
     <loc>http://liyingbo.com/tags/%E7%BE%8E%E6%B4%B2%E9%B2%AB%E9%B1%BC-tilapia/</loc>
-    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -480,14 +496,20 @@
   </url>
   
   <url>
+    <loc>http://liyingbo.com/categories/%E9%A5%AD-rice/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/tags/%E9%A5%AD-rice/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/%E9%A5%AD-rice/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/categories/%E9%B1%BC-fish/</loc>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

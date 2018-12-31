@@ -59,7 +59,7 @@
     <item>
       <title>海鲜 Seafood</title>
       <link>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>烘焙 Baking</title>
       <link>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</link>
-      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>甜点 Dessert</title>
       <link>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</guid>
       <description></description>
@@ -125,6 +125,15 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E9%A5%AD-rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>鱼 Fish</title>
+      <link>http://liyingbo.com/categories/%E9%B1%BC-fish/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E9%B1%BC-fish/</guid>
       <description></description>
     </item>
     
