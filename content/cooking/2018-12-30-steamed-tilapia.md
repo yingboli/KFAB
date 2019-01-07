@@ -31,7 +31,7 @@ tags:
 |黄酒 1 大匙                            |Chinese cooking wine, 1 tbsp |
 |酱油 2 大匙                            |Soy sauce, 2 tbsp            |
 |糖 1 小匙                              |Sugar, 1 tsp                 |
-|油 2～3 大匙                           |Vegetable oil, 2~3 tbsp      |
+|油 3～4 大匙                           |Vegetable oil, 3~4 tbsp      |
 
 1. 鱼洗净擦干，里外抹薄薄一层盐，腌15分钟左右。
 
