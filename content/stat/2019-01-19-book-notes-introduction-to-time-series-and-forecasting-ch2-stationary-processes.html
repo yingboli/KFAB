@@ -123,7 +123,7 @@ W_t = \psi(B) Y_t, \quad
 </ul>
 </div>
 <div id="ar1-process-x_t---phi-x_t-1-z_t-in-linear-process-formats" class="section level3">
-<h3>AR(1) process <span class="math inline">\(X_t - \phi X_{t-1} = Z_t\)</span>, in linear process formats</h3>
+<h3>AR<span class="math inline">\((1)\)</span> process <span class="math inline">\(X_t - \phi X_{t-1} = Z_t\)</span>, in linear process formats</h3>
 <ul>
 <li><p>If <span class="math inline">\(|\phi| &lt; 1\)</span>, then <span class="math display">\[
 X_t = \sum_{j=0}^{\infty} \phi^j Z_{t-j}
@@ -145,11 +145,11 @@ X_t = -\sum_{j=1}^{\infty} \phi^{-j} Z_{t+j}
 <div id="introduction-to-arma-processes" class="section level1">
 <h1>Introduction to ARMA Processes</h1>
 <div id="arma11-process" class="section level2">
-<h2>ARMA(1,1) process</h2>
+<h2>ARMA<span class="math inline">\((1,1)\)</span> process</h2>
 <div id="arma11-process-definitions" class="section level3">
-<h3>ARMA(1,1) process: definitions</h3>
+<h3>ARMA<span class="math inline">\((1,1)\)</span> process: definitions</h3>
 <ul>
-<li><p>The time series <span class="math inline">\(\{X_t\}\)</span> is a <font color='blue'>ARMA(1, 1)</font> process if it is <strong>stationary</strong> and satisfies <span class="math display">\[
+<li><p>The time series <span class="math inline">\(\{X_t\}\)</span> is a <font color='blue'>ARMA<span class="math inline">\((1, 1)\)</span></font> process if it is <strong>stationary</strong> and satisfies <span class="math display">\[
 X_t - \phi X_{t-1} = Z_t + \theta Z_{t-1}
 \]</span> where <span class="math inline">\(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\)</span> and <span class="math inline">\(\phi + \theta \neq 0\)</span></p></li>
 <li><p>Equivalent represention using the backward shift operator <span class="math display">\[
@@ -159,9 +159,9 @@ X_t - \phi X_{t-1} = Z_t + \theta Z_{t-1}
 </ul>
 </div>
 <div id="arma1-1-process-in-linear-process-format" class="section level3">
-<h3>ARMA(1, 1) process in linear process format</h3>
+<h3>ARMA<span class="math inline">\((1, 1)\)</span> process in linear process format</h3>
 <ul>
-<li><p>If <span class="math inline">\(\phi \neq \pm 1\)</span>, by letting <span class="math inline">\(\chi(z) = 1/\phi(z)\)</span>, we can write an ARMA(1, 1) as <span class="math display">\[
+<li><p>If <span class="math inline">\(\phi \neq \pm 1\)</span>, by letting <span class="math inline">\(\chi(z) = 1/\phi(z)\)</span>, we can write an ARMA<span class="math inline">\((1, 1)\)</span> as <span class="math display">\[
 X_t = \chi(B) \theta(B) Z_t = \psi(B) Z_t, \quad \text{where }
 \psi(B) = \sum_{j=-\infty}^{\infty} \psi_j B^j
 \]</span></p>
@@ -185,7 +185,7 @@ X_t = \chi(B) \theta(B) Z_t = \psi(B) Z_t, \quad \text{where }
 \quad \text{Noncausal}
 \]</span></p></li>
 </ul></li>
-<li><p>If <span class="math inline">\(\phi = \pm 1\)</span>, then there is no such stationary ARMA(1, 1) process</p></li>
+<li><p>If <span class="math inline">\(\phi = \pm 1\)</span>, then there is no such stationary ARMA<span class="math inline">\((1, 1)\)</span> process</p></li>
 </ul>
 </div>
 <div id="invertibility" class="section level3">
@@ -196,7 +196,7 @@ X_t = \chi(B) \theta(B) Z_t = \psi(B) Z_t, \quad \text{where }
 <li>Causal: <span class="math inline">\(X_t\)</span> can be expressed by <span class="math inline">\(\{Z_s, s \leq t\}\)</span></li>
 <li>Invertible: <span class="math inline">\(Z_t\)</span> can be expressed by <span class="math inline">\(\{X_s, s \leq t\}\)</span></li>
 </ul></li>
-<li>For an ARMA(1, 1) process,
+<li>For an ARMA<span class="math inline">\((1, 1)\)</span> process,
 <ul>
 <li>If <span class="math inline">\(|\theta|&lt; 1\)</span>, then it is invertible</li>
 <li>If <span class="math inline">\(|\theta|&gt; 1\)</span>, then it is noninvertible</li>
@@ -361,7 +361,7 @@ E\left[ (\textrm{Error}) \times (\textrm{PredictorVariable}) \right] = 0
 </ul>
 </div>
 <div id="example-one-step-prediction-of-an-ar1-series" class="section level3">
-<h3>Example: one-step prediction of an AR(1) series</h3>
+<h3>Example: one-step prediction of an AR<span class="math inline">\((1)\)</span> series</h3>
 <ul>
 <li><p>We predict <span class="math inline">\(X_{n+1}\)</span> from <span class="math inline">\(X_1, \ldots, X_n\)</span> <span class="math display">\[
 \hat{X}_{n+1} = \mu + a_1 (X_n - \mu) + \cdots a_n (X_1 - \mu)
@@ -465,15 +465,15 @@ P(X \mid \mathbf{W}) = E(X)
 </ul>
 </div>
 <div id="examples-predictions-of-arp-series" class="section level3">
-<h3>Examples: predictions of AR(p) series</h3>
+<h3>Examples: predictions of AR<span class="math inline">\((p)\)</span> series</h3>
 <ul>
-<li><p>A time series <span class="math inline">\(\{X_t\}\)</span> is an <font color='blue'>autoregression of order <span class="math inline">\(p\)</span></font>, i.e., AR(p), if it is <strong>stationary</strong> and satisfies <span class="math display">\[
+<li><p>A time series <span class="math inline">\(\{X_t\}\)</span> is an <font color='blue'>autoregression of order <span class="math inline">\(p\)</span></font>, i.e., AR<span class="math inline">\((p)\)</span>, if it is <strong>stationary</strong> and satisfies <span class="math display">\[
   X_t = \phi_1 X_{t-1} + \phi_2 X_{t-2} + \cdots + \phi_p X_{t-p} + Z_t
   \]</span> where <span class="math inline">\(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\)</span>, and <span class="math inline">\(Cov(X_s, Z_t) = 0\)</span> for all <span class="math inline">\(s &lt; t\)</span></p></li>
-<li><p>When <span class="math inline">\(n&gt;p\)</span>, the <font color='green'>one-step prediction of an AR(p) series</font> is <span class="math display">\[
+<li><p>When <span class="math inline">\(n&gt;p\)</span>, the <font color='green'>one-step prediction of an AR<span class="math inline">\((p)\)</span> series</font> is <span class="math display">\[
 P_n X_{n+1} = \phi_1 X_{n} + \phi_2 X_{n-1} + \cdots + \phi_p X_{n+1-p}
 \]</span> with MSE <span class="math inline">\(E\left(X_{n+1} - P_n X_{n+1} \right)^2 = E(Z_{n+1})^2 = \sigma^2\)</span></p></li>
-<li><p><font color='green'><span class="math inline">\(h\)</span>-step prediction of an AR(1) series</font> (proof by recursions) <span class="math display">\[
+<li><p><font color='green'><span class="math inline">\(h\)</span>-step prediction of an AR<span class="math inline">\((1)\)</span> series</font> (proof by recursions) <span class="math display">\[
 P_n X_{n+h} = \phi^h X_n, \quad \textrm{MSE} = 
 \sigma^2\frac{1-\phi^{2h}}{1-\phi^2}
 \]</span></p></li>
@@ -489,8 +489,8 @@ P_n X_{n+h} = \phi^h X_n, \quad \textrm{MSE} =
 <li><p>Alternatively, we can use recursion to simplify one-step prediction of <span class="math inline">\(P_n X_{n + 1}\)</span>, based on <span class="math inline">\(P_j X_{j+1}\)</span> for <span class="math inline">\(j = 1, \ldots, n-1\)</span></p></li>
 <li>We will introduce
 <ul>
-<li>Durbin-Levinson algorithms: good for AR(p)</li>
-<li>Innovation algorithm: good for MA(q); innovations are uncorrelated</li>
+<li>Durbin-Levinson algorithms: good for AR<span class="math inline">\((p)\)</span></li>
+<li>Innovation algorithm: good for MA<span class="math inline">\((q)\)</span>; innovations are uncorrelated</li>
 </ul></li>
 </ul>
 </div>
@@ -581,6 +581,12 @@ P_n X_{n+h}
 &amp;=  \sum_{j=h}^{n+h-1} \theta_{n+h-1, j} 
 \left(X_{n+h-j}- \hat{X}_{n+h-j} \right)
 \end{align*}\]</span></li>
+</ul>
+</div>
+<div id="references" class="section level3">
+<h3>References</h3>
+<ul>
+<li>Brockwell, Peter J. and Richard A. Davis (2016), <em>Introduction to Time Series and Forecasting, Third Edition</em>. New York: Springer</li>
 </ul>
 </div>
 </div>

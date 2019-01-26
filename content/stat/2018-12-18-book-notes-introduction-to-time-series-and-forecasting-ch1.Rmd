@@ -154,9 +154,9 @@ $$
     if $\textrm{Var}(X_t) = \sigma^2$, then 
     $\gamma_S(t+h, t) = t \sigma^2$ depends on $t$
     
-### First-order moving average, MA(1) process     
+### First-order moving average, MA$(1)$ process     
 Let $\{Z_t\} \sim \textrm{WN}(0, \sigma^2)$, and $\theta \in \mathbb{R}$,
-then $\{X_t\}$ is a `r blue('MA(1) process')`:
+then $\{X_t\}$ is a `r blue('MA$(1)$ process')`:
 $$
 X_t = Z_t + \theta Z_{t-1}, \quad t = 0, \pm 1, \ldots
 $$
@@ -182,9 +182,9 @@ $$
 $$
 
 
-### First-order autoregression, AR(1) process
+### First-order autoregression, AR$(1)$ process
 Let $\{Z_t\} \sim \textrm{WN}(0, \sigma^2)$, and $|\phi| < 1$,
-then $\{X_t\}$ is a `r blue('AR(1) process')`:
+then $\{X_t\}$ is a `r blue('AR$(1)$ process')`:
 $$
 X_t = \phi X_{t-1} + Z_t, \quad t = 0, \pm 1, \ldots
 $$
@@ -406,4 +406,8 @@ $$
 * `r green('A general strategy is to check all above mentioned tests,
 and proceed with caution if any of them suggests not iid')`
     
+### References
+
+* Brockwell, Peter J. and Richard A. Davis (2016), *Introduction to Time Series and Forecasting, Third Edition*. New York: Springer
+
 

@@ -172,7 +172,7 @@ W_t = \psi(B) Y_t, \quad
 \psi(B) = \alpha(B) \beta(B) = \beta(B)\alpha(B) 
 \]
 
-### AR(1) process $X_t - \phi X_{t-1} = Z_t$, in linear process formats
+### AR$(1)$ process $X_t - \phi X_{t-1} = Z_t$, in linear process formats
 
 * If $|\phi| < 1$, then
 \[
@@ -195,11 +195,11 @@ X_t = -\sum_{j=1}^{\infty} \phi^{-j} Z_{t+j}
 
 # Introduction to ARMA Processes
 
-## ARMA(1,1) process
+## ARMA$(1,1)$ process
 
-### ARMA(1,1) process: definitions
+### ARMA$(1,1)$ process: definitions
 
-* The time series $\{X_t\}$ is a `r blue ('ARMA(1, 1)')` process if it is
+* The time series $\{X_t\}$ is a `r blue ('ARMA$(1, 1)$')` process if it is
   **stationary** and satisfies
 \[
 X_t - \phi X_{t-1} = Z_t + \theta Z_{t-1}
@@ -212,10 +212,10 @@ where $\{Z_t\} \sim \textrm{WN}(0, \sigma^2)$ and $\phi + \theta \neq 0$
 \phi(B) = 1 - \phi B, \ \theta(B) = 1 + \theta B,
 \]
 
-### ARMA(1, 1) process in linear process format
+### ARMA$(1, 1)$ process in linear process format
 
 * If $\phi \neq \pm 1$, by letting $\chi(z) = 1/\phi(z)$, 
-we can write an ARMA(1, 1) as
+we can write an ARMA$(1, 1)$ as
 \[
 X_t = \chi(B) \theta(B) Z_t = \psi(B) Z_t, \quad \text{where }
 \psi(B) = \sum_{j=-\infty}^{\infty} \psi_j B^j
@@ -244,7 +244,7 @@ X_t = \chi(B) \theta(B) Z_t = \psi(B) Z_t, \quad \text{where }
 \quad \text{Noncausal}
 \]
 
-* If $\phi = \pm 1$, then there is no such stationary ARMA(1, 1) process
+* If $\phi = \pm 1$, then there is no such stationary ARMA$(1, 1)$ process
     
 ### Invertibility
 
@@ -252,7 +252,7 @@ X_t = \chi(B) \theta(B) Z_t = \psi(B) Z_t, \quad \text{where }
     - Causal: $X_t$ can be expressed by $\{Z_s, s \leq t\}$
     - Invertible: $Z_t$ can be expressed by $\{X_s, s \leq t\}$
     
-* For an ARMA(1, 1) process,
+* For an ARMA$(1, 1)$ process,
     - If $|\theta|< 1$, then it is invertible
     - If $|\theta|> 1$, then it is noninvertible
     
@@ -427,7 +427,7 @@ E\left[ (\hat{X}_{t+h} - X_{t+h}) X_j \right] = 0, \quad j = 1, \ldots, n
     E\left[ (\textrm{Error}) \times (\textrm{PredictorVariable}) \right] = 0
     \]
     
-### Example: one-step prediction of an AR(1) series
+### Example: one-step prediction of an AR$(1)$ series
 
 * We predict $X_{n+1}$ from $X_1, \ldots, X_n$
 \[
@@ -548,23 +548,23 @@ P(\alpha_1 X_1 + \alpha_2 X_2 + \beta \mid \mathbf{W})
     P(X \mid \mathbf{W}) = E(X)
     \]
 
-### Examples: predictions of AR(p) series
+### Examples: predictions of AR$(p)$ series
 
 * A time series $\{X_t\}$ is an `r blue('autoregression of order $p$')`, 
-  i.e., AR(p), if it is **stationary** and satisfies
+  i.e., AR$(p)$, if it is **stationary** and satisfies
   \[
   X_t = \phi_1 X_{t-1} + \phi_2 X_{t-2} + \cdots + \phi_p X_{t-p} + Z_t
   \]
   where $\{Z_t\} \sim \textrm{WN}(0, \sigma^2)$, and $Cov(X_s, Z_t) = 0$ for all
   $s < t$
   
-* When $n>p$, the `r green('one-step prediction of an AR(p) series')` is
+* When $n>p$, the `r green('one-step prediction of an AR$(p)$ series')` is
 \[
 P_n X_{n+1} = \phi_1 X_{n} + \phi_2 X_{n-1} + \cdots + \phi_p X_{n+1-p}
 \]
 with MSE $E\left(X_{n+1} - P_n X_{n+1} \right)^2 = E(Z_{n+1})^2 = \sigma^2$
 
-* `r green('$h$-step prediction of an AR(1) series')` (proof by recursions)
+* `r green('$h$-step prediction of an AR$(1)$ series')` (proof by recursions)
 \[
 P_n X_{n+h} = \phi^h X_n, \quad \textrm{MSE} = 
 \sigma^2\frac{1-\phi^{2h}}{1-\phi^2}
@@ -581,8 +581,8 @@ P_n X_{n+h} = \phi^h X_n, \quad \textrm{MSE} =
 $P_n X_{n + 1}$, based on $P_j X_{j+1}$ for $j = 1, \ldots, n-1$  
 
 * We will introduce 
-    - Durbin-Levinson algorithms: good for AR(p)
-    - Innovation algorithm: good for MA(q); innovations are uncorrelated
+    - Durbin-Levinson algorithms: good for AR$(p)$
+    - Innovation algorithm: good for MA$(q)$; innovations are uncorrelated
     
 
 ### Durbin-Levinson algorithm
@@ -683,3 +683,8 @@ P_n X_{n+h}
 &=  \sum_{j=h}^{n+h-1} \theta_{n+h-1, j} 
     \left(X_{n+h-j}- \hat{X}_{n+h-j} \right)
 \end{align*}
+
+### References
+
+* Brockwell, Peter J. and Richard A. Davis (2016), *Introduction to Time Series and Forecasting, Third Edition*. New York: Springer
+

@@ -6,10 +6,19 @@
     <description>Recent content in Home on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Notes: Introduction to Time Series and Forecasting --  Ch3 ARMA Models</title>
+      <link>http://liyingbo.com/stat/2019/01/26/book-notes-introduction-to-time-series-and-forecasting-ch3-arma-models/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/stat/2019/01/26/book-notes-introduction-to-time-series-and-forecasting-ch3-arma-models/</guid>
+      <description>ARMA\((p, q)\) Processes ARMA\((p, q)\) process: definitions  \(\{X_t\}\) is an ARMA\((p, q)\) process if it is stationary, and for all \(t\), \[ X_t - \phi_1 X_{t-1} - \cdots - \phi_p X_{t-p} = Z_t + \theta_1 Z_{t-1} + \cdots + \theta_q Z_{t-q} \] where \(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\) and the polynomials \[ \phi(z) = 1 - \phi_1 z - \cdots - \phi_p z^p, \quad \theta(z) = 1 + \theta_1 z + \cdots + \theta_q z^q \] have no common factors</description>
+    </item>
     
     <item>
       <title>Book Notes: Introduction to Time Series and Forecasting --  Ch2 Stationary Processes</title>
