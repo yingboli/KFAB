@@ -398,4 +398,4 @@ P_n X_{n+h} =
 
 ### References
 
-* Brockwell, Peter J. and Richard A. Davis (2016), *Introduction to Time Series and Forecasting, Third Edition*. New York: Springer
+* Brockwell, Peter J. and Davis, Richard A. (2016), *Introduction to Time Series and Forecasting, Third Edition*. New York: Springer
