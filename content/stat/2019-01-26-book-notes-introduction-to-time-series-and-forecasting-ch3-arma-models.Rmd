@@ -396,6 +396,24 @@ P_n X_{n+h} =
   \sum_{j=h}^q \theta_{n+h-1,j}\left( X_{n+1-j} - \hat{X}_{n+1-j} \right)
 \]
 
+### Innovation algorithm parameters vs MA parameters
+
+* `r red('Innovation algorithm parameters converges to the MA parameters')`: 
+If $\{X_t\}$ is invertible, then as $n\rightarrow \infty$, 
+\[
+\theta_{nj} \longrightarrow \theta_j, \quad j = 1, 2, \ldots, q
+\]
+
+* `r red('Prediction MSE converges to ')` $\sigma^2$:
+Let 
+\[
+v_n = E(X_{n+1} - \hat{X}_{n+1})^2, \quad \text{and } v_n = r_n \sigma^2
+\]
+If $\{X_t\}$ is invertible, then as $n\rightarrow \infty$, 
+\[
+r_n \longrightarrow 1
+\]
+
 ### References
 
 * Brockwell, Peter J. and Davis, Richard A. (2016), *Introduction to Time Series and Forecasting, Third Edition*. New York: Springer
