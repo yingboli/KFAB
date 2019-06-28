@@ -25,7 +25,7 @@ tags:
 ---
 |汆烫虾仁                               |Boiled Shrimp              |
 |---------------------------------------|-----------------------------|
-|虾仁 1磅                               |Tilapia about 1.5 lb         |
+|虾仁 1磅                               |Shrimp 1 lb         |
 |盐 1/4小匙                             |Salt, 1/4 tsp                |
 |淀粉 1小匙                             |Corn starch, 1 tsp           |
 |酱油 2大匙                             |Soy sauce, 2 tbsp            |
