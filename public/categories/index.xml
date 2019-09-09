@@ -6,98 +6,17 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Book notes</title>
-      <link>http://liyingbo.com/categories/book-notes/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/book-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lecture notes</title>
-      <link>http://liyingbo.com/categories/lecture-notes/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/lecture-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>中式面食 Chinese Main Dish</title>
-      <link>http://liyingbo.com/categories/%E4%B8%AD%E5%BC%8F%E9%9D%A2%E9%A3%9F-chinese-main-dish/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E4%B8%AD%E5%BC%8F%E9%9D%A2%E9%A3%9F-chinese-main-dish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>凉菜 Appetizer</title>
-      <link>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>小吃 Street food</title>
-      <link>http://liyingbo.com/categories/%E5%B0%8F%E5%90%83-street-food/</link>
-      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E5%B0%8F%E5%90%83-street-food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>海鲜 Seafood</title>
       <link>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>烘焙 Baking</title>
-      <link>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>牛肉 Beef</title>
-      <link>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</link>
-      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>猪肉 Pork</title>
-      <link>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</link>
-      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>甜点 Dessert</title>
-      <link>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</guid>
       <description></description>
     </item>
     
@@ -111,20 +30,29 @@
     </item>
     
     <item>
-      <title>调料 Sauce</title>
-      <link>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</link>
-      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <title>烘焙 Baking</title>
+      <link>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</guid>
+      <guid>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>饭 Rice</title>
-      <link>http://liyingbo.com/categories/%E9%A5%AD-rice/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      <title>甜点 Dessert</title>
+      <link>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://liyingbo.com/categories/%E9%A5%AD-rice/</guid>
+      <guid>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book notes</title>
+      <link>http://liyingbo.com/categories/book-notes/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/book-notes/</guid>
       <description></description>
     </item>
     
@@ -138,11 +66,83 @@
     </item>
     
     <item>
+      <title>饭 Rice</title>
+      <link>http://liyingbo.com/categories/%E9%A5%AD-rice/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E9%A5%AD-rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>鸡肉 Poultry</title>
       <link>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</link>
       <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>猪肉 Pork</title>
+      <link>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>凉菜 Appetizer</title>
+      <link>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中式面食 Chinese Main Dish</title>
+      <link>http://liyingbo.com/categories/%E4%B8%AD%E5%BC%8F%E9%9D%A2%E9%A3%9F-chinese-main-dish/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E4%B8%AD%E5%BC%8F%E9%9D%A2%E9%A3%9F-chinese-main-dish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>调料 Sauce</title>
+      <link>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture notes</title>
+      <link>http://liyingbo.com/categories/lecture-notes/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/lecture-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小吃 Street food</title>
+      <link>http://liyingbo.com/categories/%E5%B0%8F%E5%90%83-street-food/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E5%B0%8F%E5%90%83-street-food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>牛肉 Beef</title>
+      <link>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</guid>
       <description></description>
     </item>
     

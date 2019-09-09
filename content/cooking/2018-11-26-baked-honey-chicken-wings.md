@@ -9,8 +9,9 @@ tags:
   - 鸡翅 Chicken Wings
   - 烤箱 Oven
 ---
+![Baked Honey Chicken Wings](/img/2019-07-07-honey-baked-chicken-wings.jpg)
 
-又是无图无真相的一篇。。。很好吃的烤鸡翅，来不及拍照了。。。
+又是无图无真相的一篇。。。很好吃的烤鸡翅，来不及拍照了。。。（2019年9月终于补上了照片）
 
 腌料用的[阁主](http://www.yuleshow.com/)的方子，在他的第一本《下厨记》里的有写。
 话说不知不觉阁主的《下厨记》系列竟然已经出了7本了，我有前三本，
