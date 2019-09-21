@@ -6,10 +6,19 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>鸡肉 Poultry</title>
+      <link>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>海鲜 Seafood</title>
@@ -71,15 +80,6 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E9%A5%AD-rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>鸡肉 Poultry</title>
-      <link>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</link>
-      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</guid>
       <description></description>
     </item>
     
