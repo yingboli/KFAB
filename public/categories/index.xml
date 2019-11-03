@@ -6,10 +6,19 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>牛肉 Beef</title>
+      <link>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>鸡肉 Poultry</title>
@@ -134,15 +143,6 @@
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E5%B0%8F%E5%90%83-street-food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>牛肉 Beef</title>
-      <link>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</link>
-      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</guid>
       <description></description>
     </item>
     
