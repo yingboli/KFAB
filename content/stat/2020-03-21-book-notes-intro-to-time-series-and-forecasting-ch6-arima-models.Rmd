@@ -1,5 +1,5 @@
 ---
-title: 'Book Notes: Intro to Time Series and Forecasting -- Ch6 ARIMA models'
+title: 'Book Notes: Intro to Time Series and Forecasting -- Ch6 ARIMA Models'
 author: ''
 date: '2020-03-21'
 slug: book-notes-intro-to-time-series-and-forecasting-ch6-arima-models
