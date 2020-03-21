@@ -6,15 +6,24 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Book notes</title>
+      <link>http://liyingbo.com/categories/book-notes/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/book-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>烘焙 Baking</title>
       <link>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</link>
-      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</guid>
       <description></description>
@@ -71,15 +80,6 @@
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book notes</title>
-      <link>http://liyingbo.com/categories/book-notes/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/book-notes/</guid>
       <description></description>
     </item>
     

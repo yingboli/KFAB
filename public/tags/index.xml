@@ -6,10 +6,37 @@
     <description>Recent content in Tags on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Time Series</title>
+      <link>http://liyingbo.com/tags/time-series/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>胡萝卜 Carrot</title>
+      <link>http://liyingbo.com/tags/%E8%83%A1%E8%90%9D%E5%8D%9C-carrot/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/tags/%E8%83%A1%E8%90%9D%E5%8D%9C-carrot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>蛋糕 Cakes</title>
+      <link>http://liyingbo.com/tags/%E8%9B%8B%E7%B3%95-cakes/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/tags/%E8%9B%8B%E7%B3%95-cakes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>饼干 Cookies</title>
@@ -53,15 +80,6 @@
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/tags/%E9%B8%AD%E5%AD%90-duck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>蛋糕 Cakes</title>
-      <link>http://liyingbo.com/tags/%E8%9B%8B%E7%B3%95-cakes/</link>
-      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/tags/%E8%9B%8B%E7%B3%95-cakes/</guid>
       <description></description>
     </item>
     
@@ -138,15 +156,6 @@
     </item>
     
     <item>
-      <title>胡萝卜 Carrot</title>
-      <link>http://liyingbo.com/tags/%E8%83%A1%E8%90%9D%E5%8D%9C-carrot/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/tags/%E8%83%A1%E8%90%9D%E5%8D%9C-carrot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>燕麦片 Oat</title>
       <link>http://liyingbo.com/tags/%E7%87%95%E9%BA%A6%E7%89%87-oat/</link>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/tags/introduction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Time Series</title>
-      <link>http://liyingbo.com/tags/time-series/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/tags/time-series/</guid>
       <description></description>
     </item>
     

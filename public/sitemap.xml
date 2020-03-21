@@ -3,28 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://liyingbo.com/categories/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/categories/book-notes/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/stat/2020/03/21/book-notes-intro-to-time-series-and-forecasting-ch6-arima-models/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/categories/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://liyingbo.com/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/stat/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://liyingbo.com/tags/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/time-series/</loc>
+    <lastmod>2020-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/stat/2020/03/20/book-notes-intro-to-time-series-and-forecasting-ch5-modeling-and-forecasting-with-arma-processes/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E8%83%A1%E8%90%9D%E5%8D%9C-carrot/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/2020/03/20/carrot-muffins/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E8%9B%8B%E7%B3%95-cakes/</loc>
+    <lastmod>2020-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -74,11 +114,6 @@
   
   <url>
     <loc>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</loc>
-    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/tags/%E8%9B%8B%E7%B3%95-cakes/</loc>
     <lastmod>2020-01-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,11 +203,6 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/tags/%E8%83%A1%E8%90%9D%E5%8D%9C-carrot/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -193,27 +223,12 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/book-notes/</loc>
-    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://liyingbo.com/stat/2019/01/26/book-notes-introduction-to-time-series-and-forecasting-ch3-arma-models/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://liyingbo.com/tags/introduction/</loc>
-    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/stat/</loc>
-    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/tags/time-series/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
   </url>
   

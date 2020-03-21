@@ -6,10 +6,41 @@
     <description>Recent content in Home on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Notes: Intro to Time Series and Forecasting -- Ch6 ARIMA models</title>
+      <link>http://liyingbo.com/stat/2020/03/21/book-notes-intro-to-time-series-and-forecasting-ch6-arima-models/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/stat/2020/03/21/book-notes-intro-to-time-series-and-forecasting-ch6-arima-models/</guid>
+      <description>When data is not stationary  Implication of not stationary: sample ACF or sample PACF do not rapidly decrease to zero as lag increases
+ What shall we do?  Differencing, then fit an ARMA \(\rightarrow\) ARIMA Transformation, then fit an ARMA Seasonal model \(\rightarrow\) SARIMA    A non-stationary exmaple: Dow Jones utilities index data library(itsmr); ## Load the ITSM-R package par(mfrow = c(1, 3)); plot.ts(dowj, main = &amp;#39;Raw data&amp;#39;); acf(dowj); pacf(dowj);  After differencing par(mfrow = c(1, 3)); dowj_diff = dowj[-length(dowj)] - dowj[-1]; plot.</description>
+    </item>
+    
+    <item>
+      <title>Book Notes: Intro to Time Series and Forecasting -- Ch5 ARMA Models Estimation and Forecasting</title>
+      <link>http://liyingbo.com/stat/2020/03/20/book-notes-intro-to-time-series-and-forecasting-ch5-modeling-and-forecasting-with-arma-processes/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/stat/2020/03/20/book-notes-intro-to-time-series-and-forecasting-ch5-modeling-and-forecasting-with-arma-processes/</guid>
+      <description>Parameter estimation for ARMA\((p, q)\)  When the orders \(p, q\) are known, estimate the parameters \[ \boldsymbol\phi = (\phi_1, \ldots, \phi_p), \quad \boldsymbol\theta = (\theta_1, \ldots, \theta_q), \quad \sigma^2 \]  There are \(p+q+1\) parameters in total  Preliminary estimations  Yule-Walker and Burg’s algorithm: good for AR\((p)\) Innovation algorithm: good for MA\((q)\) Hannan-Rissanen algorithm: good for ARMA\((p, q)\)  More efficient estimation: MLE
+ When the orders \(p, q\) are unknown, use model selection methods to select orders  Minimize one-step MSE: FPE Penalized likelihood methods: AIC, AICC, BIC    Yule-Walker Estimation Yule-Walker equations  \(\{X_t\}\) is a casual AR\((p)\) process \[ X_t = \phi_1 X_{t-1} + \cdots + \phi_p X_{t-p} + Z_t \]</description>
+    </item>
+    
+    <item>
+      <title>胡萝卜玛芬蛋糕 Carrot Muffins</title>
+      <link>http://liyingbo.com/cooking/2020/03/20/carrot-muffins/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/cooking/2020/03/20/carrot-muffins/</guid>
+      <description>不太甜的美式方子，加了酸奶成品很蓬松，又有蔬菜挺健康的， 超级适合给小朋友（和我这样的吃货大朋友）吃。
+方子来自America&amp;rsquo;s Test Kitchen的宝宝菜谱书The Complete Baby and Toddler Cookbook， 我稍微减了香料的量，中国人口味比较能接受。 其中酸奶我用的是阿多的苹果味宝宝酸奶，本来就是甜的，所以方子糖量我也有调整。 如果用的是无糖酸奶的话，糖量可以稍微加一点，加到1/3杯就好。
+   胡萝卜玛芬蛋糕 Carrot Muffins     胡萝卜，擦丝， 1杯 Carrots, shredded, 1 cup   粉类材料 Dry ingredients   全麦面粉 1杯 Whole wheat flour 1 cup   泡打粉 3/4小匙 Baking powder 3&amp;frasl;4 tsp   小苏打 1/2小匙 Baking soda 1&amp;frasl;2 tsp   肉桂粉 1/4小匙 Ground cinnamon 1&amp;frasl;4 tsp   姜粉 1/4小匙 Ground ginger 1&amp;frasl;4 tsp   盐 1/4小匙 Salt 1/4tsp   其他材料 Other ingredients   全脂酸奶 1/2杯 Whole-milk yogurt 1&amp;frasl;2 cup (4oz)   糖（或者红糖） 1/4杯 Sugar (or brown sugar) 1&amp;frasl;4 cup   植物油 1/4杯 Vegetable oil 1&amp;frasl;4 cup   鸡蛋 2个 Eggs, 2   香草精 1/4小匙 Vanilla extract 1&amp;frasl;4 tsp     烤箱预热华氏375度（摄氏190度）。给烤盘喷一层薄油防粘。</description>
+    </item>
     
     <item>
       <title>蕃茄味黄油小曲奇 Tomato-Flavored Butter Cookie</title>
