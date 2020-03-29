@@ -6,10 +6,19 @@
     <description>Recent content in Tags on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>酱料 Sauce</title>
+      <link>http://liyingbo.com/tags/%E9%85%B1%E6%96%99-sauce/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/tags/%E9%85%B1%E6%96%99-sauce/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Time Series</title>
@@ -359,15 +368,6 @@
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/tags/%E6%97%A9%E9%A4%90-breakfast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>酱料 Sauce</title>
-      <link>http://liyingbo.com/tags/%E9%85%B1%E6%96%99-sauce/</link>
-      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/tags/%E9%85%B1%E6%96%99-sauce/</guid>
       <description></description>
     </item>
     
