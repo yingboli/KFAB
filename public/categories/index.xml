@@ -6,10 +6,28 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>烘焙 Baking</title>
+      <link>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>甜点 Dessert</title>
+      <link>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>调料 Sauce</title>
@@ -30,29 +48,11 @@
     </item>
     
     <item>
-      <title>烘焙 Baking</title>
-      <link>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>鸡肉 Poultry</title>
       <link>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</link>
       <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>甜点 Dessert</title>
-      <link>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</link>
-      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%94%9C%E7%82%B9-dessert/</guid>
       <description></description>
     </item>
     
