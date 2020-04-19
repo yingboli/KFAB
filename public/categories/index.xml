@@ -6,10 +6,19 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>猪肉 Pork</title>
+      <link>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>烘焙 Baking</title>
@@ -98,15 +107,6 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E9%A5%AD-rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>猪肉 Pork</title>
-      <link>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</link>
-      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</guid>
       <description></description>
     </item>
     
