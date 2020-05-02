@@ -6,10 +6,19 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>海鲜 Seafood</title>
+      <link>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>猪肉 Pork</title>
@@ -75,29 +84,11 @@
     </item>
     
     <item>
-      <title>海鲜 Seafood</title>
-      <link>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</link>
-      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E6%B5%B7%E9%B2%9C-seafood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>蔬菜 Vegetable</title>
       <link>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>鱼 Fish</title>
-      <link>http://liyingbo.com/categories/%E9%B1%BC-fish/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E9%B1%BC-fish/</guid>
       <description></description>
     </item>
     

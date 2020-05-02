@@ -5,7 +5,6 @@ date: '2018-12-30'
 slug: steamed-tilapia
 categories:
   - 海鲜 Seafood
-  - 鱼 Fish
 tags:
   - 快手菜 Quick dish
   - 美洲鲫鱼 Tilapia
