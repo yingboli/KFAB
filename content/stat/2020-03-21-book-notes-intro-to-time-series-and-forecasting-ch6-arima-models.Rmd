@@ -7,7 +7,15 @@ categories:
   - Book notes
 tags:
   - Time Series
+  - slides
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
 ---
+
+***For the pdf slides, click [here](/pdf/012119_time_series_ch6.pdf)***
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE);

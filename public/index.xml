@@ -6,10 +6,22 @@
     <description>Recent content in Home on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Notes: Pattern Recognition and Machine Learning -- Ch9 Mixture Models and  EM Algorithm</title>
+      <link>http://liyingbo.com/stat/2020/06/13/book-notes-pattern-recognition-and-machine-learning-ch9-mixture-models-and-em-algorithm/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/stat/2020/06/13/book-notes-pattern-recognition-and-machine-learning-ch9-mixture-models-and-em-algorithm/</guid>
+      <description>K-means Clustering vs Mixtures of Gaussians K-means clustering Mixture of Gaussians  EM Algorithm The general EM algorithm A different view of the EM algorithm, related to variational inference    For the pdf slides, click here
+K-means Clustering vs Mixtures of Gaussians K-means clustering K-means clustering: problem  Data
+ \(D\)-dimensional observations: \(\mathbf{x}_1, \ldots, \mathbf{x}_N\)  Parameters
+ \(K\) clusters’ means: \(\boldsymbol\mu_1, \ldots, \boldsymbol\mu_K\) Binary indicator \(r_{nk} \in \{0, 1\}\): if object \(n\) is in class \(k\)  Goal: find values for \(\{\boldsymbol\mu_k\}\) and \(\{r_{nk}\}\) to minimize the objective function (called a distortion measure) \[ J = \sum_{n=1}^N \sum_{k = 1}^K r_{nk} \|\mathbf{x}_n - \boldsymbol\mu_k \|^2 \]</description>
+    </item>
     
     <item>
       <title>香料烤坚果 Spiced Nuts</title>
@@ -88,8 +100,9 @@
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/stat/2020/03/21/book-notes-intro-to-time-series-and-forecasting-ch6-arima-models/</guid>
-      <description>When data is not stationary  Implication of not stationary: sample ACF or sample PACF do not rapidly decrease to zero as lag increases
- What shall we do?  Differencing, then fit an ARMA \(\rightarrow\) ARIMA Transformation, then fit an ARMA Seasonal model \(\rightarrow\) SARIMA    A non-stationary exmaple: Dow Jones utilities index data library(itsmr); ## Load the ITSM-R package par(mfrow = c(1, 3)); plot.ts(dowj, main = &amp;#39;Raw data&amp;#39;); acf(dowj); pacf(dowj);  After differencing par(mfrow = c(1, 3)); dowj_diff = dowj[-length(dowj)] - dowj[-1]; plot.</description>
+      <description>ARIMA Models Transformation and Identification Techniques Unit Root Test Forecast ARIMA models  Seasonal ARIMA Models Regression with ARMA Errors   For the pdf slides, click here
+When data is not stationary  Implication of not stationary: sample ACF or sample PACF do not rapidly decrease to zero as lag increases
+ What shall we do?  Differencing, then fit an ARMA \(\rightarrow\) ARIMA Transformation, then fit an ARMA Seasonal model \(\rightarrow\) SARIMA    A non-stationary exmaple: Dow Jones utilities index data library(itsmr); ## Load the ITSM-R package par(mfrow = c(1, 3)); plot.</description>
     </item>
     
     <item>
@@ -98,8 +111,8 @@
       <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/stat/2020/03/20/book-notes-intro-to-time-series-and-forecasting-ch5-modeling-and-forecasting-with-arma-processes/</guid>
-      <description>Parameter estimation for ARMA\((p, q)\)  When the orders \(p, q\) are known, estimate the parameters \[ \boldsymbol\phi = (\phi_1, \ldots, \phi_p), \quad \boldsymbol\theta = (\theta_1, \ldots, \theta_q), \quad \sigma^2 \]  There are \(p+q+1\) parameters in total  Preliminary estimations  Yule-Walker and Burg’s algorithm: good for AR\((p)\) Innovation algorithm: good for MA\((q)\) Hannan-Rissanen algorithm: good for ARMA\((p, q)\)  More efficient estimation: MLE
- When the orders \(p, q\) are unknown, use model selection methods to select orders  Minimize one-step MSE: FPE Penalized likelihood methods: AIC, AICC, BIC    Yule-Walker Estimation Yule-Walker equations  \(\{X_t\}\) is a casual AR\((p)\) process \[ X_t = \phi_1 X_{t-1} + \cdots + \phi_p X_{t-p} + Z_t \]</description>
+      <description>Yule-Walker Estimation Maximum Likelihood Estimation Order Selection Diagnostic Checking   For the pdf slides, click here
+Parameter estimation for ARMA\((p, q)\)  When the orders \(p, q\) are known, estimate the parameters \[ \boldsymbol\phi = (\phi_1, \ldots, \phi_p), \quad \boldsymbol\theta = (\theta_1, \ldots, \theta_q), \quad \sigma^2 \]  There are \(p+q+1\) parameters in total  Preliminary estimations  Yule-Walker and Burg’s algorithm: good for AR\((p)\) Innovation algorithm: good for MA\((q)\) Hannan-Rissanen algorithm: good for ARMA\((p, q)\)  More efficient estimation: MLE</description>
     </item>
     
     <item>
@@ -264,7 +277,8 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/stat/2019/01/26/book-notes-introduction-to-time-series-and-forecasting-ch3-arma-models/</guid>
-      <description>ARMA\((p, q)\) Processes Stationary solution Causality Invertibility  ACF and PACF of an ARMA\((p, q)\) Process Calculation of the ACVF Test for MAs and ARs from the ACF and PACF  Forecast ARMA Processes   ARMA\((p, q)\) Processes ARMA\((p, q)\) process: definitions  \(\{X_t\}\) is an ARMA\((p, q)\) process if it is stationary, and for all \(t\), \[ X_t - \phi_1 X_{t-1} - \cdots - \phi_p X_{t-p} = Z_t + \theta_1 Z_{t-1} + \cdots + \theta_q Z_{t-q} \] where \(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\) and the polynomials \[ \phi(z) = 1 - \phi_1 z - \cdots - \phi_p z^p, \quad \theta(z) = 1 + \theta_1 z + \cdots + \theta_q z^q \] have no common factors</description>
+      <description>ARMA\((p, q)\) Processes Stationary solution Causality Invertibility  ACF and PACF of an ARMA\((p, q)\) Process Calculation of the ACVF Test for MAs and ARs from the ACF and PACF  Forecast ARMA Processes   For the pdf slides, click here
+ARMA\((p, q)\) Processes ARMA\((p, q)\) process: definitions  \(\{X_t\}\) is an ARMA\((p, q)\) process if it is stationary, and for all \(t\), \[ X_t - \phi_1 X_{t-1} - \cdots - \phi_p X_{t-p} = Z_t + \theta_1 Z_{t-1} + \cdots + \theta_q Z_{t-q} \] where \(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\) and the polynomials \[ \phi(z) = 1 - \phi_1 z - \cdots - \phi_p z^p, \quad \theta(z) = 1 + \theta_1 z + \cdots + \theta_q z^q \] have no common factors</description>
     </item>
     
     <item>
@@ -273,7 +287,8 @@
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/stat/2019/01/19/book-notes-introduction-to-time-series-and-forecasting-ch2-stationary-processes/</guid>
-      <description>Linear Processes Introduction to ARMA Processes ARMA\((1,1)\) process  Properties of the Sample ACVF and Sample ACF Bartlett’s Formula  Forecast Stationary Time Series Best linear predictor: minimizes MSE Recursive methods: the Durbin-Levinson and Innovation Algorithms    Best linear predictor  Goal: find a function of \(X_n\) that gives the “best” predictor of \(X_{n+h}\).
+      <description>Linear Processes Introduction to ARMA Processes ARMA\((1,1)\) process  Properties of the Sample ACVF and Sample ACF Bartlett’s Formula  Forecast Stationary Time Series Best linear predictor: minimizes MSE Recursive methods: the Durbin-Levinson and Innovation Algorithms    For the pdf slides, click here
+Best linear predictor  Goal: find a function of \(X_n\) that gives the “best” predictor of \(X_{n+h}\).
  We mean “best” by achieving minimum mean squared error Under joint normality assumption of \(X_n\) and \(X_{n+h}\), the best estimator is \[ m(X_n) = E(X_{n+h} \mid X_n) = \mu + \rho(h)(X_n - \mu) \]  Best linear predictor \[ \ell(X_n) = a X_n + b \]</description>
     </item>
     
@@ -331,11 +346,10 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/stat/2018/12/18/book-notes-introduction-to-time-series-and-forecasting-ch1/</guid>
-      <description>Stationary Models and Autocorrelation Function Examples of Simple Time Series Models  Estimate and Eliminate Trend and Seasonal Components Trend Component Only Also with the Seasonal Component  Test Whether Estimated Noises are IID   Objective of time series models  Seasonal adjustment: recognize seasonal components and remove them to study long-term trends
+      <description>Stationary Models and Autocorrelation Function Examples of Simple Time Series Models  Estimate and Eliminate Trend and Seasonal Components Trend Component Only Also with the Seasonal Component  Test Whether Estimated Noises are IID   For the pdf slides, click here
+Objective of time series models  Seasonal adjustment: recognize seasonal components and remove them to study long-term trends
  Separate (or filter) noise from signals
- Prediction
- Test hypotheses
- Predicting one series from observations of another</description>
+ Prediction</description>
     </item>
     
     <item>

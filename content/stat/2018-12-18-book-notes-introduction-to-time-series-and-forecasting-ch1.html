@@ -8,6 +8,7 @@ categories:
 tags:
   - Introduction
   - Time Series
+  - slides
 output:
   blogdown::html_page:
     toc: true
@@ -28,10 +29,12 @@ output:
 </ul>
 </div>
 
+<p><strong><em>For the pdf slides, click <a href="/pdf/111918_time_series_ch1.pdf">here</a></em></strong></p>
 <div id="objective-of-time-series-models" class="section level3">
 <h3>Objective of time series models</h3>
 <ul>
-<li><p>Seasonal adjustment: recognize seasonal components and remove them to study long-term trends</p></li>
+<li><p>Seasonal adjustment: recognize seasonal components and remove them to
+study long-term trends</p></li>
 <li><p>Separate (or filter) noise from signals</p></li>
 <li><p>Prediction</p></li>
 <li><p>Test hypotheses</p></li>
@@ -69,11 +72,15 @@ output:
 <ul>
 <li><span class="math inline">\(\mu_X(t)\)</span> does not depend on <span class="math inline">\(t\)</span></li>
 <li><span class="math inline">\(\gamma_X(t+h, t)\)</span> does not depend on <span class="math inline">\(t\)</span>, for each <span class="math inline">\(h\)</span></li>
-<li><font color='red'>(Weakly) stationary is defined based on the first and second order properties of a series</font></li>
+<li><font color='red'>(Weakly) stationary is defined based on the first and second order
+properties of a series</font></li>
 </ul></li>
-<li><span class="math inline">\(\{X_t\}\)</span> is <font color='blue'>strictly stationary</font> if <span class="math inline">\((X_1, \ldots, X_n)\)</span> and <span class="math inline">\((X_{1+h}, \ldots, X_{n+h})\)</span> have the same joint distributions for all integers <span class="math inline">\(h\)</span> and <span class="math inline">\(n&gt;0\)</span>
+<li><span class="math inline">\(\{X_t\}\)</span> is <font color='blue'>strictly stationary</font> if <span class="math inline">\((X_1, \ldots, X_n)\)</span> and
+<span class="math inline">\((X_{1+h}, \ldots, X_{n+h})\)</span> have the same joint distributions for all
+integers <span class="math inline">\(h\)</span> and <span class="math inline">\(n&gt;0\)</span>
 <ul>
-<li>If <span class="math inline">\(\{X_t\}\)</span> is strictly stationary, and <span class="math inline">\(E(X_t^2) &lt; \infty\)</span> for all <span class="math inline">\(t\)</span>, then <span class="math inline">\(\{X_t\}\)</span> is weakly stationary</li>
+<li>If <span class="math inline">\(\{X_t\}\)</span> is strictly stationary, and <span class="math inline">\(E(X_t^2) &lt; \infty\)</span> for all <span class="math inline">\(t\)</span>,
+then <span class="math inline">\(\{X_t\}\)</span> is weakly stationary</li>
 <li>Weakly stationary does not imply strictly stationary</li>
 </ul></li>
 </ul>
@@ -99,16 +106,19 @@ output:
 </div>
 <div id="definitions-sample-acvf-and-sample-acf" class="section level3">
 <h3>Definitions: sample ACVF and sample ACF</h3>
-<p><span class="math inline">\(x_1, \ldots, x_n\)</span> are observations of a time series with sample mean <span class="math inline">\(\bar{x}\)</span></p>
+<p><span class="math inline">\(x_1, \ldots, x_n\)</span> are observations of a time series with sample mean
+<span class="math inline">\(\bar{x}\)</span></p>
 <ul>
-<li><p><font color='blue'>Sample autocovariance function</font>: for <span class="math inline">\(-n &lt; h &lt; n\)</span>, <span class="math display">\[
+<li><p><font color='blue'>Sample autocovariance function</font>: for <span class="math inline">\(-n &lt; h &lt; n\)</span>,
+<span class="math display">\[
 \hat{\gamma}(h) = \frac{1}{n}\sum_{t=1}^{n - |h|}
-  \left(x_{t + |h|} - \bar{x} \right) \left(x_{t} - \bar{x} \right)
+\left(x_{t + |h|} - \bar{x} \right) \left(x_{t} - \bar{x} \right)
 \]</span></p>
 <ul>
 <li><font color='red'>Use <span class="math inline">\(n\)</span> in the denominator</font> ensures the sample covariance matrix <span class="math inline">\(\hat{\Gamma}_n = \left[ \hat{\gamma}(i-j) \right]_{i,j = 1}^n\)</span> is nonnegative definite</li>
 </ul></li>
-<li><font color='blue'>Sample autocorrelation function</font>: for <span class="math inline">\(-n &lt; h &lt; n\)</span>, <span class="math display">\[
+<li><font color='blue'>Sample autocorrelation function</font>: for <span class="math inline">\(-n &lt; h &lt; n\)</span>,
+<span class="math display">\[
 \hat{\rho}(h) = \frac{\hat{\gamma}(h)}{\hat{\gamma}(0)}
 \]</span>
 <ul>
@@ -133,52 +143,66 @@ output:
 <div id="binary-process-and-random-walk" class="section level3">
 <h3>Binary process and random walk</h3>
 <ul>
-<li><p><font color='blue'>Binary process</font>: an example of iid noise <span class="math inline">\(\{X_t, t = 1, 2, \ldots \}\)</span> <span class="math display">\[
+<li><p><font color='blue'>Binary process</font>: an example of iid noise <span class="math inline">\(\{X_t, t = 1, 2, \ldots \}\)</span>
+<span class="math display">\[
 P(X_t = 1) = p, \quad P(X_t = -1) = 1-p
 \]</span></p></li>
-<li><p><font color='blue'>Random walk</font>: <span class="math inline">\(\{S_t, t = 0, 1, 2, \ldots\}\)</span>, with <span class="math inline">\(S_0 = 0\)</span> and iid noise <span class="math inline">\(\{X_t\}\)</span> <span class="math display">\[
+<li><p><font color='blue'>Random walk</font>: <span class="math inline">\(\{S_t, t = 0, 1, 2, \ldots\}\)</span>, with <span class="math inline">\(S_0 = 0\)</span> and
+iid noise <span class="math inline">\(\{X_t\}\)</span>
+<span class="math display">\[
 S_t = X_1 + X_2 + \cdots + X_t, \textrm{ for } t = 1, 2, \ldots
 \]</span></p>
 <ul>
-<li><p><span class="math inline">\(\{S_t\}\)</span> is a <font color='blue'>simple symmetric random walk</font> if <span class="math inline">\(\{X_t\}\)</span> is a binary process with <span class="math inline">\(p = 0.5\)</span></p></li>
-<li><p><font color='red'>Random walk is not stationary</font>: if <span class="math inline">\(\textrm{Var}(X_t) = \sigma^2\)</span>, then <span class="math inline">\(\gamma_S(t+h, t) = t \sigma^2\)</span> depends on <span class="math inline">\(t\)</span></p></li>
+<li><p><span class="math inline">\(\{S_t\}\)</span> is a <font color='blue'>simple symmetric random walk</font> if <span class="math inline">\(\{X_t\}\)</span> is
+a binary process with <span class="math inline">\(p = 0.5\)</span></p></li>
+<li><p><font color='red'>Random walk is not stationary</font>:
+if <span class="math inline">\(\textrm{Var}(X_t) = \sigma^2\)</span>, then
+<span class="math inline">\(\gamma_S(t+h, t) = t \sigma^2\)</span> depends on <span class="math inline">\(t\)</span></p></li>
 </ul></li>
 </ul>
 </div>
 <div id="first-order-moving-average-ma1-process" class="section level3">
 <h3>First-order moving average, MA<span class="math inline">\((1)\)</span> process</h3>
-<p>Let <span class="math inline">\(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\)</span>, and <span class="math inline">\(\theta \in \mathbb{R}\)</span>, then <span class="math inline">\(\{X_t\}\)</span> is a <font color='blue'>MA<span class="math inline">\((1)\)</span> process</font>: <span class="math display">\[
+<p>Let <span class="math inline">\(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\)</span>, and <span class="math inline">\(\theta \in \mathbb{R}\)</span>,
+then <span class="math inline">\(\{X_t\}\)</span> is a <font color='blue'>MA<span class="math inline">\((1)\)</span> process</font>:
+<span class="math display">\[
 X_t = Z_t + \theta Z_{t-1}, \quad t = 0, \pm 1, \ldots
 \]</span></p>
 <ul>
-<li><p>ACVF: does not depend on <span class="math inline">\(t\)</span>, <font color='green'>stationary</font> <span class="math display">\[
+<li><p>ACVF: does not depend on <span class="math inline">\(t\)</span>, <font color='green'>stationary</font>
+<span class="math display">\[
 \gamma_X(t+h, t) = 
-  \begin{cases}
-  (1 + \theta^2) \sigma^2,  &amp; \textrm{ if } h = 0,\\
-  \theta \sigma^2,  &amp; \textrm{ if } h = \pm 1,\\
-  0,  &amp; \textrm{ if } |h| &gt; 1.\\
-  \end{cases}
+\begin{cases}
+(1 + \theta^2) \sigma^2,  &amp; \textrm{ if } h = 0,\\
+\theta \sigma^2,  &amp; \textrm{ if } h = \pm 1,\\
+0,  &amp; \textrm{ if } |h| &gt; 1.\\
+\end{cases}
 \]</span></p></li>
-<li><p>ACF: <span class="math display">\[
+<li><p>ACF:
+<span class="math display">\[
 \rho_X(h) = 
-  \begin{cases}
-  1,  &amp; \textrm{ if } h = 0,\\
-  \theta / (1 + \theta^2),  &amp; \textrm{ if } h = \pm 1,\\
-  0,  &amp; \textrm{ if } |h| &gt; 1.\\
-  \end{cases}
+\begin{cases}
+1,  &amp; \textrm{ if } h = 0,\\
+\theta / (1 + \theta^2),  &amp; \textrm{ if } h = \pm 1,\\
+0,  &amp; \textrm{ if } |h| &gt; 1.\\
+\end{cases}
 \]</span></p></li>
 </ul>
 </div>
 <div id="first-order-autoregression-ar1-process" class="section level3">
 <h3>First-order autoregression, AR<span class="math inline">\((1)\)</span> process</h3>
-<p>Let <span class="math inline">\(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\)</span>, and <span class="math inline">\(|\phi| &lt; 1\)</span>, then <span class="math inline">\(\{X_t\}\)</span> is a <font color='blue'>AR<span class="math inline">\((1)\)</span> process</font>: <span class="math display">\[
+<p>Let <span class="math inline">\(\{Z_t\} \sim \textrm{WN}(0, \sigma^2)\)</span>, and <span class="math inline">\(|\phi| &lt; 1\)</span>,
+then <span class="math inline">\(\{X_t\}\)</span> is a <font color='blue'>AR<span class="math inline">\((1)\)</span> process</font>:
+<span class="math display">\[
 X_t = \phi X_{t-1} + Z_t, \quad t = 0, \pm 1, \ldots
 \]</span></p>
 <ul>
-<li><p>ACVF: <span class="math display">\[
+<li><p>ACVF:
+<span class="math display">\[
 \gamma_X(h) = \frac{\sigma^2}{1-\phi^2} \cdot \phi^{|h|}
 \]</span></p></li>
-<li><p>ACF: <span class="math display">\[
+<li><p>ACF:
+<span class="math display">\[
 \rho_X(h) = \phi^{|h|}
 \]</span></p></li>
 </ul>
@@ -193,45 +217,59 @@ X_t = \phi X_{t-1} + Z_t, \quad t = 0, \pm 1, \ldots
 <ul>
 <li>a (slowly changing) trend component <span class="math inline">\(m_t\)</span>,</li>
 <li>a seasonal component <span class="math inline">\(s_t\)</span> with period <span class="math inline">\(d\)</span> and <span class="math inline">\(\sum_{j=1}^d s_j = 0\)</span>,</li>
-<li><p>a zero-mean series <span class="math inline">\(Y_t\)</span> <span class="math display">\[
+<li><p>a zero-mean series <span class="math inline">\(Y_t\)</span>
+<span class="math display">\[
 X_t = m_t + s_t + Y_t
 \]</span></p></li>
-<li><p>Method 1: estimate <span class="math inline">\(s_t\)</span> first, then <span class="math inline">\(m_t\)</span>, and hope the noise component <span class="math inline">\(Y_t\)</span> is stationary (to model)</p></li>
+<li><p>Method 1: estimate <span class="math inline">\(s_t\)</span> first, then <span class="math inline">\(m_t\)</span>, and hope the noise component <span class="math inline">\(Y_t\)</span>
+is stationary (to model)</p></li>
 <li><p>Method 2: differencing</p></li>
-<li><p>Method 3: trend and seasonality can be estimated together in a regression, whose design matrix contains both polynomial and harmonic terms</p></li>
+<li><p>Method 3: trend and seasonality can be estimated together in a regression, whose
+design matrix contains both polynomial and harmonic terms</p></li>
 </ul>
 </div>
 <div id="trend-component-only" class="section level2">
 <h2>Trend Component Only</h2>
 <div id="estimate-trend-polynomial-regression-fitting" class="section level3">
 <h3>Estimate trend: polynomial regression fitting</h3>
-<p>Observation <span class="math inline">\(\{X_t\}\)</span> can be decomposed into a trend component <span class="math inline">\(m_t\)</span> and a zero-mean series <span class="math inline">\(Y_t\)</span>: <span class="math display">\[
+<p>Observation <span class="math inline">\(\{X_t\}\)</span> can be decomposed into
+a trend component <span class="math inline">\(m_t\)</span> and a zero-mean series <span class="math inline">\(Y_t\)</span>:
+<span class="math display">\[
 X_t = m_t + Y_t
 \]</span></p>
 <ul>
-<li>Least squares polynomial regression <span class="math display">\[
-  m_t = a_0 + a_1 t + \cdots + a_p t^p
-  \]</span></li>
+<li>Least squares polynomial regression
+<span class="math display">\[
+m_t = a_0 + a_1 t + \cdots + a_p t^p
+\]</span></li>
 </ul>
 </div>
 <div id="estimate-trend-smoothing-with-a-finite-ma-filter" class="section level3">
 <h3>Estimate trend: smoothing with a finite MA filter</h3>
 <ul>
-<li><p><font color='blue'>Linear filter</font> <span class="math display">\[
+<li><p><font color='blue'>Linear filter</font>
+<span class="math display">\[
 \hat{m}_t = \sum_{j = -\infty}^{\infty} a_j X_{t-j}
 \]</span></p></li>
-<li><p><font color='blue'>Two-sided moving average filter</font>, with <span class="math inline">\(q \in \mathbb{N}\)</span> <span class="math display">\[
+<li><p><font color='blue'>Two-sided moving average filter</font>, with <span class="math inline">\(q \in \mathbb{N}\)</span>
+<span class="math display">\[
 W_t = \frac{\sum_{j = -q}^q X_{t-j}}{2q + 1}
 \]</span></p>
 <ul>
-<li><p><span class="math inline">\(W_t \approx m_t\)</span> for <span class="math inline">\(q+1 \leq t \leq n-q\)</span>, if <span class="math inline">\(X_t\)</span> only has the trend component <span class="math inline">\(m_t\)</span> but not seasonality <span class="math inline">\(s_t\)</span>, and <span class="math inline">\(m_t\)</span> is approximately linear in <span class="math inline">\(t\)</span></p></li>
-<li><p><span class="math inline">\(W_t\)</span> is a <font color='blue'>low-pass filter</font>: remove the rapidly fluctuating (high frequency) component <span class="math inline">\(Y_t\)</span>, and let the slowly varying component <span class="math inline">\(m_t\)</span> pass</p></li>
+<li><p><span class="math inline">\(W_t \approx m_t\)</span> for <span class="math inline">\(q+1 \leq t \leq n-q\)</span>, if <span class="math inline">\(X_t\)</span>
+only has the trend component <span class="math inline">\(m_t\)</span> but not seasonality <span class="math inline">\(s_t\)</span>, and
+<span class="math inline">\(m_t\)</span> is approximately linear in <span class="math inline">\(t\)</span></p></li>
+<li><p><span class="math inline">\(W_t\)</span> is a <font color='blue'>low-pass filter</font>: remove the rapidly fluctuating
+(high frequency) component <span class="math inline">\(Y_t\)</span>, and let the slowly varying component
+<span class="math inline">\(m_t\)</span> pass</p></li>
 </ul></li>
 </ul>
 </div>
 <div id="estimate-trend-exponential-smoothing" class="section level3">
 <h3>Estimate trend: exponential smoothing</h3>
-<p>For any fixed <span class="math inline">\(\alpha \in [0, 1]\)</span>, the one-sided MA <span class="math inline">\(\hat{m}_t: t = 1, \ldots, n\)</span> defined by recursions <span class="math display">\[
+<p>For any fixed <span class="math inline">\(\alpha \in [0, 1]\)</span>, the one-sided MA <span class="math inline">\(\hat{m}_t: t = 1, \ldots, n\)</span>
+defined by recursions
+<span class="math display">\[
 \hat{m}_t = 
   \begin{cases}
   X_1, &amp; \textrm{ if } t = 1 \\
@@ -239,7 +277,8 @@ W_t = \frac{\sum_{j = -q}^q X_{t-j}}{2q + 1}
   \end{cases}
 \]</span></p>
 <ul>
-<li>Equivalently, <span class="math display">\[
+<li>Equivalently,
+<span class="math display">\[
 \hat{m}_t = \sum_{j=0}^{t-2} \alpha (1-\alpha)^j X_{t-j} + (1-\alpha)^{t-1}X_1
 \]</span></li>
 </ul>
@@ -247,23 +286,28 @@ W_t = \frac{\sum_{j = -q}^q X_{t-j}}{2q + 1}
 <div id="eliminate-trend-by-differencing" class="section level3">
 <h3>Eliminate trend by differencing</h3>
 <ul>
-<li><p><font color='blue'>Backward shift operator</font> <span class="math display">\[
+<li><p><font color='blue'>Backward shift operator</font>
+<span class="math display">\[
 B X_t = X_{t-1}
 \]</span></p></li>
-<li><font color='blue'>Lag-1 difference operator</font> <span class="math display">\[
+<li><font color='blue'>Lag-1 difference operator</font>
+<span class="math display">\[
 \nabla X_t = X_t - X_{t-1} = (1 - B) X_t
 \]</span>
 <ul>
-<li>If <span class="math inline">\(\nabla\)</span> is applied to a linear trend function <span class="math inline">\(m_t = c_0 + c_1 t\)</span>, then <span class="math inline">\(\nabla m_t = c_1\)</span></li>
+<li>If <span class="math inline">\(\nabla\)</span> is applied to a linear trend function <span class="math inline">\(m_t = c_0 + c_1 t\)</span>, then
+<span class="math inline">\(\nabla m_t = c_1\)</span></li>
 </ul></li>
-<li>Powers of operators <span class="math inline">\(B\)</span> and <span class="math inline">\(\nabla\)</span>: <span class="math display">\[
+<li>Powers of operators <span class="math inline">\(B\)</span> and <span class="math inline">\(\nabla\)</span>:
+<span class="math display">\[
 B^j (X_t) = X_{t-j}, \quad \nabla^j(X_t) = \nabla\left[\nabla^{j-1}(X_t)\right]
 \textrm{ with } \nabla^0(X_t) = X_t
 \]</span>
 <ul>
-<li><span class="math inline">\(\nabla^k\)</span> reduces a polynomial trend of degree <span class="math inline">\(k\)</span> to a constant <span class="math display">\[
-\nabla^k \left( \sum_{j=0}^k c_j t^j \right) = k! c_k
-\]</span></li>
+<li><span class="math inline">\(\nabla^k\)</span> reduces a polynomial trend of degree <span class="math inline">\(k\)</span> to a constant
+<span class="math display">\[
+  \nabla^k \left( \sum_{j=0}^k c_j t^j \right) = k! c_k
+  \]</span></li>
 </ul></li>
 </ul>
 </div>
@@ -272,7 +316,8 @@ B^j (X_t) = X_{t-j}, \quad \nabla^j(X_t) = \nabla\left[\nabla^{j-1}(X_t)\right]
 <h2>Also with the Seasonal Component</h2>
 <div id="estimate-seasonal-component-harmonic-regression" class="section level3">
 <h3>Estimate seasonal component: harmonic regression</h3>
-<p>Observation <span class="math inline">\(\{X_t\}\)</span> can be decomposed into a seasonal component <span class="math inline">\(s_t\)</span> and a zero-mean series <span class="math inline">\(Y_t\)</span>: <span class="math display">\[
+<p>Observation <span class="math inline">\(\{X_t\}\)</span> can be decomposed into a seasonal component <span class="math inline">\(s_t\)</span> and a zero-mean series <span class="math inline">\(Y_t\)</span>:
+<span class="math display">\[
 X_t = s_t + Y_t
 \]</span></p>
 <ul>
@@ -288,8 +333,10 @@ s_t = a_0 + \sum_{j=1}^k \left[ a_j \cos\left( \lambda_j t \right)
 <li>Specified parameters:
 <ul>
 <li>Number of harmonics: <span class="math inline">\(k\)</span></li>
-<li>Frequencies <span class="math inline">\(\lambda_j\)</span>, each being some integer multiple of <span class="math inline">\(\frac{2\pi}{d}\)</span></li>
-<li>Sometimes <span class="math inline">\(\lambda_j\)</span> are instead specified through Fourier indices <span class="math inline">\(f_j = \frac{n \cdot j}{d}\)</span></li>
+<li>Frequencies <span class="math inline">\(\lambda_j\)</span>, each being some integer multiple of
+<span class="math inline">\(\frac{2\pi}{d}\)</span></li>
+<li>Sometimes <span class="math inline">\(\lambda_j\)</span> are instead specified through Fourier indices
+<span class="math inline">\(f_j = \frac{n \cdot j}{d}\)</span></li>
 </ul></li>
 </ul>
 </div>
@@ -299,16 +346,19 @@ s_t = a_0 + \sum_{j=1}^k \left[ a_j \cos\left( \lambda_j t \right)
 <li><p>Estimate <span class="math inline">\(\hat{m}_t\)</span>: use a MA filter chosen to elimate the seasonality</p>
 <ul>
 <li>If <span class="math inline">\(d\)</span> is odd, let <span class="math inline">\(d = 2q\)</span></li>
-<li>If <span class="math inline">\(d\)</span> is even, let <span class="math inline">\(d = 2q\)</span> and <span class="math display">\[
-\hat{m}_t = (0.5 x_{t-q} + x_{t-q+1} + \cdots + x_{t + q - 1} + 0.5 x_{t+q}) / d
-\]</span></li>
+<li>If <span class="math inline">\(d\)</span> is even, let <span class="math inline">\(d = 2q\)</span> and
+<span class="math display">\[
+ \hat{m}_t = (0.5 x_{t-q} + x_{t-q+1} + \cdots + x_{t + q - 1} + 0.5 x_{t+q}) / d
+ \]</span></li>
 </ul></li>
 <li><p>Estimate <span class="math inline">\(\hat{s}_t\)</span>: for each <span class="math inline">\(k = 1, \ldots, d\)</span></p>
 <ul>
 <li>Compute the average <span class="math inline">\(w_k = \textrm{avg}_j (x_{k+jd} - \hat{m}_{k+jd})\)</span></li>
-<li>To ensure <span class="math inline">\(\sum_{k=1}^d s_k = 0\)</span>, let <span class="math inline">\(\hat{s}_k = w_k - \bar{w}\)</span>, where <span class="math inline">\(\bar{w} = \sum_{k = 1}^d w_k / d\)</span></li>
+<li>To ensure <span class="math inline">\(\sum_{k=1}^d s_k = 0\)</span>, let <span class="math inline">\(\hat{s}_k = w_k - \bar{w}\)</span>,
+where <span class="math inline">\(\bar{w} = \sum_{k = 1}^d w_k / d\)</span></li>
 </ul></li>
-<li><p>Re-estimate <span class="math inline">\(\hat{m}_t\)</span>: based on the deseasonalized data <span class="math display">\[
+<li><p>Re-estimate <span class="math inline">\(\hat{m}_t\)</span>: based on the deseasonalized data
+<span class="math display">\[
 d_t = x_t - \hat{s}_t
 \]</span></p></li>
 </ol>
@@ -316,17 +366,20 @@ d_t = x_t - \hat{s}_t
 <div id="eliminate-trend-and-seasonal-components-differencing" class="section level3">
 <h3>Eliminate trend and seasonal components: differencing</h3>
 <ul>
-<li><p><font color='blue'>Lag-<span class="math inline">\(d\)</span> differencing</font> <span class="math display">\[
+<li><p><font color='blue'>Lag-<span class="math inline">\(d\)</span> differencing</font>
+<span class="math display">\[
 \nabla_d X_t = X_t - X_{t-d} = (1 - B^d) X_t
 \]</span></p>
 <ul>
 <li>Note: the operators <span class="math inline">\(\nabla_d\)</span> and <span class="math inline">\(\nabla^d = (1-B)^d\)</span> are different</li>
 </ul></li>
-<li><p>Apply <span class="math inline">\(\nabla_d\)</span> to <span class="math inline">\(X_t = m_t + s_t + Y_t\)</span> <span class="math display">\[
+<li><p>Apply <span class="math inline">\(\nabla_d\)</span> to <span class="math inline">\(X_t = m_t + s_t + Y_t\)</span>
+<span class="math display">\[
 \nabla_d X_t = m_t - m_{t-d} + Y_t - Y_{t-d}
 \]</span></p>
 <ul>
-<li>Then the trend <span class="math inline">\(m_t - m_{t-d}\)</span> can be eliminated using methods discussed before, e.g., applying a power of the operator <span class="math inline">\(\nabla\)</span></li>
+<li>Then the trend <span class="math inline">\(m_t - m_{t-d}\)</span> can be eliminated using methods discussed
+before, e.g., applying a power of the operator <span class="math inline">\(\nabla\)</span></li>
 </ul></li>
 </ul>
 </div>
@@ -362,7 +415,8 @@ d_t = x_t - \hat{s}_t
 <li>The Portmanteau test has some refinements
 <ul>
 <li>Ljung and Box <span class="math inline">\(Q_{LB} = n(n+2) \sum_j \hat{\rho}^2(j) / (n-j)\)</span></li>
-<li>McLeod and Li <span class="math inline">\(Q_{ML} = n(n+2) \sum_j \hat{\rho}_{WW}^2(j) / (n-j)\)</span>, where <span class="math inline">\(\hat{\rho}_{WW}^2(h)\)</span> is the sample ACF of squared data</li>
+<li>McLeod and Li <span class="math inline">\(Q_{ML} = n(n+2) \sum_j \hat{\rho}_{WW}^2(j) / (n-j)\)</span>,
+where <span class="math inline">\(\hat{\rho}_{WW}^2(h)\)</span> is the sample ACF of squared data</li>
 </ul></li>
 </ul>
 </div>
@@ -395,11 +449,13 @@ d_t = x_t - \hat{s}_t
 </tbody>
 </table>
 <ul>
-<li>Time <span class="math inline">\(i\)</span> is a turning point, if <span class="math inline">\(y_i - y_{i-1}\)</span> and <span class="math inline">\(y_{i+1} - y_i\)</span> have flipped signs
+<li>Time <span class="math inline">\(i\)</span> is a turning point, if <span class="math inline">\(y_i - y_{i-1}\)</span> and <span class="math inline">\(y_{i+1} - y_i\)</span> have
+flipped signs
 <ul>
 <li><span class="math inline">\(\mu_T = 2(n-2)/3 \approx 2/3\)</span></li>
 </ul></li>
-<li>A large positive (or negative) value of <span class="math inline">\(S-\mu_S\)</span> indicates increasing (or decreasing) trend
+<li>A large positive (or negative) value of <span class="math inline">\(S-\mu_S\)</span> indicates increasing (or
+decreasing) trend
 <ul>
 <li><span class="math inline">\(\mu_S = (n-1)/2 \approx 1/2\)</span></li>
 </ul></li>
@@ -414,7 +470,8 @@ d_t = x_t - \hat{s}_t
 <li>If the selected order is zero, then the series is white noise</li>
 </ul></li>
 <li><p>Normal qq plot: check of normality</p></li>
-<li><p><font color='green'>A general strategy is to check all above mentioned tests, and proceed with caution if any of them suggests not iid</font></p></li>
+<li><p><font color='green'>A general strategy is to check all above mentioned tests,
+and proceed with caution if any of them suggests not iid</font></p></li>
 </ul>
 </div>
 <div id="references" class="section level3">

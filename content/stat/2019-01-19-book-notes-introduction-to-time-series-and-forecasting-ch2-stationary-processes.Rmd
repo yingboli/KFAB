@@ -9,11 +9,14 @@ categories:
 tags:
   - Introduction
   - Time Series
+  - slides
 output:
   blogdown::html_page:
     toc: true
     toc_depth: 2
 ---
+
+***For the pdf slides, click [here](/pdf/121018_time_series_ch2.pdf)***
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE);
