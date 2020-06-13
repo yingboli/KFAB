@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://liyingbo.com/stat/2020/06/13/book-notes-computer-age-statistical-inference-ch-9-survival-analysis/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/stat/2020/06/13/book-notes-pattern-recognition-and-machine-learning-ch9-mixture-models-and-em-algorithm/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +33,11 @@
   </url>
   
   <url>
+    <loc>http://liyingbo.com/tags/introduction/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/tags/optimization/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -39,6 +49,11 @@
   
   <url>
     <loc>http://liyingbo.com/stat/</loc>
+    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/survival-analysis/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -319,11 +334,6 @@
   
   <url>
     <loc>http://liyingbo.com/stat/2019/01/26/book-notes-introduction-to-time-series-and-forecasting-ch3-arma-models/</loc>
-    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/tags/introduction/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
   </url>
   
