@@ -16,7 +16,7 @@ output:
     toc_depth: 2
 ---
 
-***For the pdf slides, click [here](/pdf/061320_EM_algorithm_ch10.pdf)***
+***For the pdf slides, click [here](/pdf/050120_EM_algorithm_ch9.pdf)***
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE);
