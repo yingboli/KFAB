@@ -8,7 +8,7 @@ categories:
 tags:
   - Introduction
   - Time Series
-  - slides
+  - Slides
 output:
   blogdown::html_page:
     toc: true
