@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://liyingbo.com/categories/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/2020/07/19/three-cup-sauce-sauteed-trumptet-mushroom/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E5%8F%B0%E6%B9%BE%E8%8F%9C-taiwanness-cuisine/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E5%B7%9D%E8%8F%9C-sichuan-cuisine/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E8%8C%84%E5%AD%90-eggplant/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E8%98%91%E8%8F%87-mushroom/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/2020/07/19/fish-flavored-sauteed-eggplant/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/categories/book-notes/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -18,17 +73,7 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://liyingbo.com/tags/computation/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -55,16 +100,6 @@
   <url>
     <loc>http://liyingbo.com/tags/survival-analysis/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/tags/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -313,11 +348,6 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</loc>
-    <lastmod>2019-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://liyingbo.com/tags/%E7%87%95%E9%BA%A6%E7%89%87-oat/</loc>
     <lastmod>2019-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -494,11 +524,6 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/2018/08/26/sauteed-portobello/</loc>
-    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/tags/%E8%98%91%E8%8F%87-mushroom/</loc>
     <lastmod>2018-08-26T00:00:00+00:00</lastmod>
   </url>
   
