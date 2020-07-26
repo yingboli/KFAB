@@ -34,7 +34,7 @@ tags:
 |蒜 6瓣                           |Garlic 6 cloves             |
 |酱油 2大匙                           |Soy sauce 2 tbsp             |
 |香醋 2大匙                              |Vinegar 2 tbsp             |
-|盐 1/2小匙                            |Salt 1/2 tsp             |
+|盐 1/4小匙                            |Salt 1/4 tsp             |
 |糖 1小匙                            |Sugar 1 tsp             |
 |熟白芝麻 1小匙                            |Sesame, roasted, 1 tsp             |
 |辣椒面 1大匙                           |Red chili pepper 1 tbsp             |
