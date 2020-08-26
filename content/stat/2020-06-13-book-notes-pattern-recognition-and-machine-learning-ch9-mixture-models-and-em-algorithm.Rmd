@@ -1,6 +1,5 @@
 ---
-title: 'Book Notes: Pattern Recognition and Machine Learning -- Ch9 Mixture Models
-  and  EM Algorithm'
+title: 'Book Notes: Pattern Recognition and Machine Learning -- Ch9 Mixture Models and EM Algorithm'
 author: ''
 date: '2020-06-13'
 slug: book-notes-pattern-recognition-and-machine-learning-ch9-mixture-models-and-em-algorithm
@@ -133,7 +132,7 @@ instead seek well-behaved local maxima of the likelihood function')`: see the fo
     - Alternatively, we can to adopt a Bayesian approach
 
 ```{r, out.width='35%', fig.align='center', fig.cap='Illustration of singularities'}
-knitr::include_graphics('/figures/Bishop_fig_9_7.png')
+knitr::include_graphics('/figures/Bishop_fig_9_7.png', error = FALSE)
 ```
 ### Conditional MLE of $\boldsymbol\mu_k$
 * Suppose we observe $N$ data points $\mathbf{X} = \{\mathbf{x}_1, \ldots, \mathbf{x}_N\}$
@@ -289,7 +288,7 @@ z_{nk} = \mathbf{1}(\text{if $\mathbf{x}_n$ is from the $k$-th Gaussian componen
 
 
 ```{r, out.width='30%', fig.align='center', fig.cap='Mixture of Gaussians, treating latent variables as observed'}
-knitr::include_graphics('/figures/Bishop_fig_9_9.png')
+knitr::include_graphics('/figures/Bishop_fig_9_9.png', error = FALSE)
 ```
 
 
@@ -355,7 +354,7 @@ q(\mathbf{Z}) = p\left(\mathbf{Z} \mid \mathbf{X}, \boldsymbol\theta^{\text{old}
 \]
 
 ```{r, out.width='55%', fig.align='center', fig.cap='In the E step, the lower bound moves to the same value as the old incomplete data log likelihood'}
-knitr::include_graphics('/figures/Bishop_fig_9_12.png')
+knitr::include_graphics('/figures/Bishop_fig_9_12.png', error = FALSE)
 ```
 
 ### A different view of the EM algorithm: M step
@@ -369,7 +368,7 @@ the new posterior $p\left(\mathbf{Z} \mid \mathbf{X}, \boldsymbol\theta^{\text{n
 Therefore, the KL divergence becomes nonzero.
 
 ```{r, out.width='45%', fig.align='center', fig.cap='In the M step, both the lower bound and the KL divergence increase.'}
-knitr::include_graphics('/figures/Bishop_fig_9_13.png')
+knitr::include_graphics('/figures/Bishop_fig_9_13.png', error = FALSE)
 ```
 
 ### EM algorithm illustration
@@ -380,7 +379,7 @@ knitr::include_graphics('/figures/Bishop_fig_9_13.png')
 * The lower bounds have tangential contacts with the log likelihood
 
 ```{r, out.width='65%', fig.align='center', fig.cap='Illustration of EM algorithm, in the parameter space'}
-knitr::include_graphics('/figures/Bishop_fig_9_14.png')
+knitr::include_graphics('/figures/Bishop_fig_9_14.png', error = FALSE)
 ```
 
 ### EM algorithm in Bayesian statistics

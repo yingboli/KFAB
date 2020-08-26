@@ -6,10 +6,37 @@
     <description>Recent content in Tags on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://liyingbo.com/tags/introduction/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing data</title>
+      <link>http://liyingbo.com/tags/missing-data/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/tags/missing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://liyingbo.com/tags/slides/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/tags/slides/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>日本菜 Japanese</title>
@@ -102,29 +129,11 @@
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>http://liyingbo.com/tags/introduction/</link>
-      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/tags/introduction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Optimization</title>
       <link>http://liyingbo.com/tags/optimization/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/tags/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>http://liyingbo.com/tags/slides/</link>
-      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/tags/slides/</guid>
       <description></description>
     </item>
     

@@ -3,22 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://liyingbo.com/categories/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/categories/book-notes/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <loc>http://liyingbo.com/stat/2020/08/25/book-notes-flexible-imputation-of-missing-data-ch4-multivariate-missing-data/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/categories/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://liyingbo.com/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/introduction/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/missing-data/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/slides/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/stat/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://liyingbo.com/tags/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/stat/2020/08/24/book-notes-flexible-imputation-of-missing-data-ch3-univariate-missing-data/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/stat/2020/08/23/book-notes-flexible-imputation-of-missing-data-ch2-multiple-imputation/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/stat/2020/08/22/book-notes-flexible-imputation-of-missing-data-ch1-introduction/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,11 +153,6 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/categories/book-notes/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://liyingbo.com/stat/2020/06/13/book-notes-computer-age-statistical-inference-ch-9-survival-analysis/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -128,22 +168,7 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/tags/introduction/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://liyingbo.com/tags/optimization/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/tags/slides/</loc>
-    <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/stat/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
   </url>
   
