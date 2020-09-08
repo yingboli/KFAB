@@ -6,10 +6,22 @@
     <description>Recent content in Home on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Notes: Statistical Analysis with Missing Data -- Ch3 Complete Case Analysis and Weighting Methods</title>
+      <link>http://liyingbo.com/stat/2020/09/08/book-notes-statistical-analysis-with-missing-data-ch3-complete-case-analysis-and-weighting-methods/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/stat/2020/09/08/book-notes-statistical-analysis-with-missing-data-ch3-complete-case-analysis-and-weighting-methods/</guid>
+      <description>Weighted Complete-Case Analysis Available-Case Analysis   For the pdf slides, click here
+Complete-case (CC) analysis  Complete-case (CC) analysis: use only data points (units) where all variables are observed
+ Loss of information in CC analysis:
+ Loss of precision (larger variance) Bias, when the missingness mechanism is not MCAR. In this case, the complete units are not a random sample of the population  In this notes, I will focus on the bias issue</description>
+    </item>
     
     <item>
       <title>Book Notes: Flexible Imputation of Missing Data -- Ch4 Multivariate Missing Data</title>
