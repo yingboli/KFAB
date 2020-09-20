@@ -3,22 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://liyingbo.com/categories/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/life/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/categories/painting/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E6%B0%B4%E5%BD%A9%E7%94%BB-watercolor/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/life/2020/09/19/my-first-watercolor-painting/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E7%BA%A2%E8%91%B1%E5%A4%B4-shallots/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/2020/09/19/crispy-shallots/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/categories/book-notes/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://liyingbo.com/stat/2020/09/08/book-notes-statistical-analysis-with-missing-data-ch3-complete-case-analysis-and-weighting-methods/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/categories/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/</loc>
     <lastmod>2020-09-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,11 +88,6 @@
   </url>
   
   <url>
-    <loc>http://liyingbo.com/tags/</loc>
-    <lastmod>2020-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://liyingbo.com/stat/2020/08/25/book-notes-flexible-imputation-of-missing-data-ch4-multivariate-missing-data/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
@@ -65,11 +105,6 @@
   <url>
     <loc>http://liyingbo.com/stat/2020/08/22/book-notes-flexible-imputation-of-missing-data-ch1-introduction/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -264,11 +299,6 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/2020/03/28/all-purpose-marinade-and-grilling-sauce/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</loc>
     <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
