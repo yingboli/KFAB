@@ -6,10 +6,21 @@
     <description>Recent content in Home on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paper Notes: Generalized R Squared </title>
+      <link>http://liyingbo.com/stat/2020/10/05/paper-notes-generalized-r-squared/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/stat/2020/10/05/paper-notes-generalized-r-squared/</guid>
+      <description>Generalized \(R^2\) by Cox and Snell Generalized \(R^2\) by Nagelkerke   For the pdf slides, click here
+\(R^2\) for normal linear regression  \(R^2\), also called coefficient of determination or multiple correlation coefficient, is defined for normal linear regression, as the proportion of variance “explained” by the regression model \[\begin{equation}\label{eq:R2} R^2 = \frac{\sum_i \left( y_i - \hat{y}_i \right)^2}{\sum_i \left( y_i - \bar{y} \right)^2} \end{equation}\]
+ Note that under the MLE, where \(\hat{\sigma}^2 = \sum_i \left( y_i - \hat{y}_i \right)^2 / n\), the deviance (i.</description>
+    </item>
     
     <item>
       <title>Book Notes: Computer Age Statistical Inference -- Ch 15 Multiple Testing</title>
