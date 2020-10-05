@@ -116,6 +116,30 @@ R^2 = 1 - \exp\left\{ -\frac{2}{n}\left[l\left(\hat{\beta}\right) - l(\hat{0})  
     
     - Nagelkerke's general $R^2$ \eqref{eq:generalized_R2_v2} seems to be a popular version. For example, the biostat textbook by Steyerberg uses this version
 
+## Generalized $R^2$ for binary data    
+### Generalized $R^2$ for binary data
+
+* Denote the estimated binary probabilities as $\hat{p}_i$ for the fitted model, and $\bar{p}$ for the null model
+
+* Cox and Snell $R^2$
+\[
+R^2 
+= 1 - \left[L(0)/L\left(\hat{\beta}\right)\right]^{2/n}
+= 1 - \left[ \prod_i \left(\frac{\bar{p}}{\hat{p}_i}  \right)^{y_i} 
+  \left(\frac{1-\bar{p}}{1-\hat{p}_i}  \right)^{1-y_i}\right]^{2/n}
+\]
+
+* Nagelkerke $R^2$
+\[
+\bar{R}^2 
+= \frac{1 - \left[L(0)/L\left(\hat{\beta}\right)\right]^{2/n}}
+{1 - L(0)^{2/n}}
+= \frac{1 - \left[\prod_i \left(\frac{\bar{p}}{\hat{p}_i}  \right)^{y_i} 
+  \left(\frac{1-\bar{p}}{1-\hat{p}_i}  \right)^{1-y_i}\right]^{2/n}}
+  {1 - \left[\prod_i \bar{p}^{y_i} 
+  \left(1-\bar{p}\right)^{1-y_i}\right]^{2/n}}
+\]
+
 ### References
 
 * Nagelkerke, N. J. D. (1991). A Note on a General Definition of the Coefficient of Determination. Biometrika, 78(3), 691-692.
