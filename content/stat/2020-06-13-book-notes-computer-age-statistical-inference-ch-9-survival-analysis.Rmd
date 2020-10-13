@@ -1,5 +1,5 @@
 ---
-title: 'Book Notes: Computer Age Statistical Inference -- Ch 9 Survival Analysis'
+title: 'Book Notes: Computer Age Statistical Inference -- Ch9 Survival Analysis'
 author: ''
 date: '2020-06-13'
 slug: book-notes-computer-age-statistical-inference-ch-9-survival-analysis

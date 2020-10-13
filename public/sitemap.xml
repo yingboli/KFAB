@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://liyingbo.com/cooking/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://liyingbo.com/tags/generalized-linear-models/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
   </url>
@@ -44,6 +49,26 @@
   
   <url>
     <loc>http://liyingbo.com/tags/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/categories/%E5%B0%8F%E5%90%83-street-food/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/cooking/2020/10/12/zucchini-pancake/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E8%A5%BF%E8%91%AB%E8%8A%A6-zucchini/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liyingbo.com/tags/%E9%B8%A1%E8%9B%8B-egg/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -90,11 +115,6 @@
   <url>
     <loc>http://liyingbo.com/tags/multiple-testing/</loc>
     <lastmod>2020-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/cooking/</loc>
-    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -419,11 +439,6 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/2020/01/17/japanese-soy-reduction/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/tags/%E8%A5%BF%E8%91%AB%E8%8A%A6-zucchini/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -774,11 +789,6 @@
   
   <url>
     <loc>http://liyingbo.com/cooking/2018/03/03/okonomi-yaki/</loc>
-    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://liyingbo.com/categories/%E5%B0%8F%E5%90%83-street-food/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url>
   
