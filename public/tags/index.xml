@@ -6,10 +6,19 @@
     <description>Recent content in Tags on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>水彩画 Watercolor</title>
+      <link>http://liyingbo.com/tags/%E6%B0%B4%E5%BD%A9%E7%94%BB-watercolor/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/tags/%E6%B0%B4%E5%BD%A9%E7%94%BB-watercolor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generalized Linear Models</title>
@@ -57,15 +66,6 @@
     </item>
     
     <item>
-      <title>水彩画 Watercolor</title>
-      <link>http://liyingbo.com/tags/%E6%B0%B4%E5%BD%A9%E7%94%BB-watercolor/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/tags/%E6%B0%B4%E5%BD%A9%E7%94%BB-watercolor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Introduction</title>
       <link>http://liyingbo.com/tags/introduction/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>Missing data</title>
+      <title>Missing Data</title>
       <link>http://liyingbo.com/tags/missing-data/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
