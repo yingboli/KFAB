@@ -23,7 +23,7 @@ tags:
 
 |炖比利时菊苣                              |Braised Belgian Endives     |
 |---------------------------------------|-------------------------|
-|比利时菊苣 3个                             |Belgian endives 4=3|
+|比利时菊苣 3个                             |Belgian endives 3|
 |黄油 1.5大匙                                 |Butter 1.5 tbsp            |
 |糖 1/4小匙                         |Sugar, 1/4 tsb              |
 |盐 1/8小匙                         |Salt, 1/8 tsb              |
