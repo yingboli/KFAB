@@ -156,7 +156,7 @@ T = \bar{U} + B + B/m = \bar{U} + \left(1 + \frac{1}{m}\right) B
 $\hat{Q}, U$, if it satisfies the following three conditions approximately at large $m$
 \begin{align*}
 E\left(\bar{Q} \mid Y\right) & = \hat{Q}\\
-E\left(\bar{U} \mid Y\right) & = \hat{U}\\
+E\left(\bar{U} \mid Y\right) & = U\\
 \left(1 + \frac{1}{m}\right) E(B \mid Y) & \geq V(\bar{Q})
 \end{align*}
 
