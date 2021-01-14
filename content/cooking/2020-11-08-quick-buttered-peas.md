@@ -9,7 +9,11 @@ tags:
   - 青豆 Peas
 ---
 
+![Quick Buttered Peas](/img/2021-01-13-quick-buttered-peas.jpg)
+
+
 暂时无图无真想，但应该会快就回再做，因为阿多喜欢。所以图下次再补。
+（隔年一月份终于补上了）
 
 方子来自ATK的菜谱书"Side Dish Bible"，书很厚，里面有很多蔬菜方子。
 方子很简单，用的是冷冻青豆，整道菜很快，5～10分钟就能完成。
