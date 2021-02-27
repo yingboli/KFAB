@@ -1,8 +1,8 @@
 ---
-title: 临时菜谱：Taco Canitas
+title: 慢炖猪肉塔可饼：Carnitas Taco 
 author: ''
-date: '2021-02-22'
-slug: taco-canitas
+date: '2021-02-26'
+slug: carnitas-taco
 categories:
   - 猪肉 Pork
 tags:
@@ -10,14 +10,24 @@ tags:
   - 塔可饼 Taco
   - 墨西哥菜 Mexican Food
 ---
+![Taco Canitas](/img/2021-02-26-taco-carnitas.jpg)
 
-|慢炖猪肉塔可饼                         |Taco Canitas            |
+我在北卡三角区念书的时候就很喜欢去墨西哥店吃taco，
+是那种很正宗的Mexican street taco，用玉米饼包鲜嫩多汁的炖肉，加salsa, 洋葱和香菜的那种，不是美式的那种放了很多cheese很腻但肉却很柴的那种。
+现在在德州也慢慢找到家里附近一家加油站墨西哥小店的taco还不错，
+只不过最近给肉的量越来越少，可能是Covid期间生意难做吧。
+
+偶然发现了ATK的Cook's Country最近一季的视频里有讲我很喜欢的慢炖猪肉馅的taco，就是拿梅花肉浸在猪油里放烤箱低温久烤，有点像法式油封菜的那种风格，也并不太费功夫。于是说干就干咯～
+
+超级好吃！强烈推荐！
+
+|慢炖猪肉塔可饼                         |Carnitas Taco            |
 |---------------------------------------|-------------------------|
 |猪梅花肉 4磅                           | Port butt (aka shoulder) 4 lb       |
 |猪油 2磅                               | Lard 2 lb          |
 |Kosher盐 1.5大匙                                       | Kosher Salt 1.5 tbsp          |
 |                               |           |
-| **青番茄莎莎酱**                              | **Tomatillos Salsa**          |
+| **绿番茄莎莎酱**                              | **Tomatillos Salsa**          |
 |罐头整颗绿番茄 28盎司                  | Canned tomatillos 28oz           |
 |洋葱（小）1                               |Onion, small, 1            |
 |墨西哥小青椒 1                               | Jalapeno 1           |
@@ -55,4 +65,4 @@ tags:
 7. 把猪肉从铸铁锅里捞出来，沥干油，放在案板上粗粗的切一切，到适口的大小即可。
 试吃一下决定要不要再加盐。
 
-8. 组装塔可饼：玉米饼烘热一下，加猪肉，Salsa, 洋葱碎，香菜碎，莱姆汁，开吃！
+8. 组装塔可饼：平底锅上开小火，玉米饼两面都在烘热一下，大概每面10秒钟左右。然后加猪肉，Salsa, 洋葱碎，香菜碎，莱姆汁，开吃！
