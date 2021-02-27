@@ -1,5 +1,5 @@
 ---
-title: 慢炖猪肉塔可饼：Carnitas Taco 
+title: 慢炖猪肉塔可饼 Carnitas Taco 
 author: ''
 date: '2021-02-26'
 slug: carnitas-taco
