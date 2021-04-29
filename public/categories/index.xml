@@ -6,10 +6,28 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>烘焙 Baking</title>
+      <link>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>调料 Sauce</title>
+      <link>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>蔬菜 Vegetable</title>
@@ -26,15 +44,6 @@
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E7%8C%AA%E8%82%89-pork/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>烘焙 Baking</title>
-      <link>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</link>
-      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E7%83%98%E7%84%99-baking/</guid>
       <description></description>
     </item>
     
@@ -89,15 +98,6 @@
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/book-notes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>调料 Sauce</title>
-      <link>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</guid>
       <description></description>
     </item>
     
