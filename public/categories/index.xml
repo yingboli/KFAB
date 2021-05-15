@@ -6,10 +6,37 @@
     <description>Recent content in Categories on King Fox And Butterfly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liyingbo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>凉菜 Appetizer</title>
+      <link>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>蔬菜 Vegetable</title>
+      <link>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>鸡肉 Poultry</title>
+      <link>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>烘焙 Baking</title>
@@ -26,15 +53,6 @@
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E8%B0%83%E6%96%99-sauce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>蔬菜 Vegetable</title>
-      <link>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E8%94%AC%E8%8F%9C-vegetable/</guid>
       <description></description>
     </item>
     
@@ -111,15 +129,6 @@
     </item>
     
     <item>
-      <title>鸡肉 Poultry</title>
-      <link>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E9%B8%A1%E8%82%89-poultry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>牛肉 Beef</title>
       <link>http://liyingbo.com/categories/%E7%89%9B%E8%82%89-beef/</link>
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
@@ -134,15 +143,6 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>http://liyingbo.com/categories/%E9%A5%AD-rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>凉菜 Appetizer</title>
-      <link>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://liyingbo.com/categories/%E5%87%89%E8%8F%9C-appetizer/</guid>
       <description></description>
     </item>
     
