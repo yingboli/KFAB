@@ -1,0 +1,96 @@
+baseurl = "http://liyingbo.com"
+languageCode = "en-us"
+title = "King Fox And Butterfly"
+#theme = "hugo-xmin"
+theme = "hugo-creative-portfolio-theme"
+googleAnalytics = "UA-116913878-1"
+disqusShortname = "kfab"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    cooking = "/cooking/:year/:month/:day/:slug/"
+    life = "/life/:year/:month/:day/:slug/"
+    stat = "/stat/:year/:month/:day/:slug/"
+
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Describe your website"
+  copyright = "&copy;2016 Your name or company"
+  sidebarAbout = [
+    "Home cook and statistician, both with 10+ years experience.",
+    "Originally from Shanghai, currently based in Dallas."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Cooking"
+  url = "cooking/"
+  home = true
+  
+  [[params.navlinks]]
+  name = "Statistics"
+  url = "stat/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Life"
+  url = "life/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Categories"
+  url = "categories/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Tags"
+  url = "tags/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  facebook      = "full page or profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "email@example.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  gitlab        = "full profile url in gitlab"
+  youtube       = "full profile url in youtube"
+  whatsapp      = "wa.me service link"
