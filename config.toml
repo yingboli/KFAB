@@ -129,9 +129,6 @@ footnotereturnlinkcontents = "↩"
   # You can comment it to disable syntax highlighting
   syntaxHighlighter = "highlight.js"
   
-  MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
-  MathJaxVersion = "2.7.5"
-
   # -----------
   # Date format
   # -----------
